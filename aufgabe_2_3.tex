@@ -2,13 +2,21 @@
     \subsubsection{Spannungsverlauf und Leistung}                       % 2.3 a
         \textbf{Methode}
         \newline
-        \par 
-    
-    
-    
-    
-    
-        Folgende Graphen zeigen den Verlauf der Spannung und der Leistung in abhänigeit der Zeit. Gemessen wurde am 5.10.2018 im Forum des KIT - Campus zwischen 11:30 Uhr und 13:30 Uhr, mit leichter bewölkung und einer Temperatur zwischen $10^{\circ}C$ und $15^{\circ}C$
+        \par Es wurde eine leicht abgewandelte Version der Schaltung aus Abbildung $~\ref{fig:Schaltkreis}$ benutzt, nämlich mit einem konstanten Widerstand von $1\ k\Omega$ anstatt des variablen Widerstandes.
+        \par Gemessen wurde am 5.11.2018 am Forum des KIT - Campus zwischen 11:30 Uhr und 13:30 Uhr, mit leichter Bewölkung und einer Temperatur zwischen $10^{\circ}C$ und $15^{\circ}C$.
+        \par Die erzeugte Energie wurde mit folgendem Matlab-Skript ausgerechnet:
+        
+        \begin{figure}[H]
+            \lstinputlisting[language=Matlab, frame=single, firstline=17, lastline=25]{messungen/Aufgabe_2_3/import_data.m}
+            \caption{Matlab-Skrip zur Berechnung der Energie}
+        \end{figure}
+        
+        \vspace{4mm}
+        %\newline
+        \textbf{Ergebnis}
+        \newline
+        \par Folgende Graphen zeigen den Verlauf der Spannung und der Leistung in abhänigeit der Zeit.
+        
         \begin{figure}[H]
             %\includegraphics{spannung_langzeit}
             \def\svgwidth{\textwidth}
@@ -25,7 +33,7 @@
             \caption{Leistungsverlauf über 2 Stunden}
         \end{figure}
         
-        Die erzeugte Energie beträgt ungefähr 177.34 Ws bzw. 0.0237 Wh.
+        Die erzeugte Energie beträgt ungefähr $177.34\ Ws$ bzw. $0.0493\ Wh$.
 
         
         
