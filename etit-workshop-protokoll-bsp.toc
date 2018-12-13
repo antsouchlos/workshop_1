@@ -1,19 +1,21 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Einleitung}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Projektorganisation}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Theoretische Grundlagen/ Literaturrecherche}{4}{subsection.1.2}
 \contentsline {section}{\numberline {2}Aufgaben}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Literaturrecherche}{5}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Vermessung der Solarzelle POW112D2P}{5}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {a}Aufnehmen der I-U Kennlinie}{5}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {b}Bestimmung des Maximum-Power-Points (MPP)}{6}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {c}MPP-Anpassung}{7}{subsubsection.2.2.3}
-\contentsline {subsection}{\numberline {2.3}Langzeitmessung}{7}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {a}Spannungsverlauf und Leistung}{7}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {b}Energiegewinnung}{9}{subsubsection.2.3.2}
-\contentsline {subsection}{\numberline {2.4}Energiespeicherung und Verhalten von Solarzellen}{10}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {a}Theoretische Betrachtung}{10}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {b}Messung}{10}{subsubsection.2.4.2}
-\contentsline {subsubsection}{\numberline {c}Modellbildung}{11}{subsubsection.2.4.3}
-\contentsline {subsubsection}{\numberline {d}Gesamtenergie und Wirkungsgrad}{12}{subsubsection.2.4.4}
-\contentsline {subsection}{\numberline {2.5}Verhalten Photovoltaik mit und ohne Energiespeicher}{13}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {a}Messung}{13}{subsubsection.2.5.1}
-\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{13}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {b}Bestimmung des Maximum-Power-Points (MPP)}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {c}MPP-Anpassung}{8}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}Langzeitmessung}{8}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {a}Spannungsverlauf und Leistung}{8}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {b}Energiegewinnung}{10}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Energiespeicherung und Verhalten von Solarzellen}{11}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {a}Theoretische Betrachtung}{11}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {b}Messung}{11}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {c}Modellbildung}{12}{subsubsection.2.4.3}
+\contentsline {subsubsection}{\numberline {d}Gesamtenergie und Wirkungsgrad}{13}{subsubsection.2.4.4}
+\contentsline {subsection}{\numberline {2.5}Verhalten Photovoltaik mit und ohne Energiespeicher}{14}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {a}Messung}{14}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{14}{subsubsection.2.5.2}

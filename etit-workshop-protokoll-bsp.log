@@ -1,11 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.12)  13 DEC 2018 05:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.20)  13 DEC 2018 21:16
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**etit-workshop-protokoll-bsp.tex
-(./etit-workshop-protokoll-bsp.tex
+**./etit-workshop-protokoll-bsp.tex
+(etit-workshop-protokoll-bsp.tex
 LaTeX2e <2018-04-01> patch level 5
-(./etit-workshop-protokoll.cls
+(etit-workshop-protokoll.cls
 Document Class: etit-workshop-protokoll 2015/05/13 0.0 LaTeX2e document class
 
 *******************************************************
@@ -18,24 +16,31 @@ Document Class: etit-workshop-protokoll 2015/05/13 0.0 LaTeX2e document class
 * http://www.iiit.kit.edu
 *******************************************************
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrartcl
+.cls"
 Document Class: scrartcl 2018/03/30 v3.25 KOMA-Script document class (article)
-(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkbase
+.sty"
 Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbase.
+sty"
 Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile
+.sty"
 Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
 )))
-(/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocbasic
+.sty"
 Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -49,8 +54,7 @@ Package scrartcl Info: You've used standard option `12pt'.
 (scrartcl)             If you'd like to set the option with \KOMAoptions,
 (scrartcl)             you'd have to use `fontsize=12pt' there
 (scrartcl)             instead of `12pt', too.
-
-(/usr/share/texmf-dist/tex/latex/base/fleqn.clo
+ ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fleqn.clo"
 File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -63,11 +67,13 @@ Already applied: [0000/00/00] Make \] robust on input line 83.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2114.
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrsize1
+2pt.clo"
 File: scrsize12pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (12pt
 )
 )
-(/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\typearea
+.sty"
 Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
 \ta@bcor=\skip42
 \ta@div=\count80
@@ -121,100 +127,113 @@ Package tocbasic Info: omitting babel extension for `lot'
 Class scrartcl Info: Redefining `\numberline' on input line 5615.
 \bibindent=\dimen103
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.st
+y"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.st
+y"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+ ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphic
+s.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.
+def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/usr/share/texmf-dist/tex/latex/psnfss/helvet.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(/usr/share/texmf-dist/tex/latex/psnfss/courier.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/09/02 3.23 The Babel package
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
 
-(/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/09/02 3.23 Babel switching mechanism
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
-(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\englis
+h.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/09/02 3.23 Babel common definitions
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen106
 
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+")
 \bbl@dirlevel=\count90
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerman
+.ldf"
 Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
 phy)
 
-(/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerman
+b.ldf"
 Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
 aphy)
 Package babel Info: Making " an active character on input line 121.
 ))
-(/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerman
+.ldf"
 Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
 phy)
 
-(/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\ngerman
+b.ldf"
 Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
 aphy)
 )))
-(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip57
-
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen107
-))
-(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen108
-)
-(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count91
@@ -255,17 +274,18 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.st
+y"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
+)) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen116
 \ar@mcellbox=\box30
@@ -275,11 +295,13 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \backup@length=\skip61
 \ar@cellbox=\box31
 )
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlayer
+-scrpage.sty"
 Package: scrlayer-scrpage 2018/03/30 v3.25 KOMA-Script package (end user interf
 ace for scrlayer)
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlayer.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlayer
+.sty"
 Package: scrlayer 2018/03/30 v3.25 KOMA-Script package (defining layers and pag
 e styles)
 Package scrlayer Info: Using already defined \footheight
@@ -294,19 +316,21 @@ Package scrlayer-scrpage Info: deactivating warning for font element
 (scrlayer-scrpage)             `pagefoot' on input line 1268.
 )
 Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
-
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+ ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.st
+y"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hy
+perref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-ge
+neric.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -316,15 +340,11 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -346,70 +366,77 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.st
+y"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.s
+ty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen118
 \Hy@linkcounter=\count103
 \Hy@pagecounter=\count104
 
-(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count105
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cf
+g"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
+Package hyperref Info: Bookmarks ON on input line 4788.
 \c@Hy@tempcnt=\count106
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5141.
 \XeTeXLinkMargin=\dimen119
 \Fld@menulength=\count107
 \Field@Width=\dimen120
 \Fld@charsize=\dimen121
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring OFF on input line 6416.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
 \Hy@abspage=\count108
 \c@Item=\count109
 \c@Hfootnote=\count110
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count111
 \c@bookmark@seq@number=\count112
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilech
+eck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip62
 )
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.st
+y"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@cnth=\count113
 \Gm@cntv=\count114
@@ -423,9 +450,12 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@layouthoffset=\dimen128
 \Gm@layoutvoffset=\dimen129
 \Gm@dimlist=\toks23
-)
-(/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2016/04/27 v1.618033 publication quality tables
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cf
+g"))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.st
+y"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen130
 \lightrulewidth=\dimen131
 \cmidrulewidth=\dimen132
@@ -444,11 +474,13 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count119
 \@thisrulewidth=\dimen142
 )
-(/usr/share/texmf-dist/tex/latex/floatrow/floatrow.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\floatrow\floatrow.st
+y"
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
 
-(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen143
 \captionmargin@=\dimen144
@@ -494,7 +526,7 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \LTright=\skip76
 \flrow@types=\toks26
 )
-(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 \TX@col@width=\dimen154
 \TX@old@table=\dimen155
@@ -503,13 +535,14 @@ Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 \TX@delta=\dimen158
 \TX@cols=\count127
 \TX@ftn=\toks27
-)
-(/usr/share/texmf-dist/tex/latex/siunitx/siunitx.sty
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-08-23 L3 programming layer (loader) 
+) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
+y" ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
+y"
+Package: expl3 2018-11-19 L3 programming layer (loader) 
 
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018-08-23 L3 programming layer (code)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.
+tex"
+Package: expl3 2018-11-19 L3 programming layer (code)
 \c_max_int=\count128
 \l_tmpa_int=\count129
 \l_tmpb_int=\count130
@@ -655,12 +688,14 @@ Package: expl3 2018-08-23 L3 programming layer (code)
 \l__seq_internal_a_int=\count277
 \l__seq_internal_b_int=\count278
 )
-(/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2018-08-23 v L3 Experimental driver: PDF mode
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.d
+ef"
+File: l3pdfmode.def 2018-11-19 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count279
 ))
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2018-08-23 L3 Experimental document command parser
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xp
+arse.sty"
+Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count280
 \g__xparse_grabber_int=\count281
 \l__xparse_m_args_int=\count282
@@ -669,8 +704,9 @@ Package: xparse 2018-08-23 L3 Experimental document command parser
 )
 Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2018-08-23 LaTeX2e option processing using LaTeX3 keys
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\
+l3keys2e.sty"
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
 \l__siunitx_tmp_dim=\dimen191
@@ -712,126 +748,13 @@ Package: l3keys2e 2018-08-23 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_result_box=\box56
 \l__siunitx_table_number_align_skip=\skip85
 \l__siunitx_table_text_align_skip=\skip86
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7237.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7240.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7243.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7246.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7249.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7252.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7255.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7270.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \num with sig. 'om' on line 7279.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7288.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \numrange with sig. 'omm' on line 7297.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7309.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SIrange with sig. 'ommm' on line 7321.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SI with sig. 'omom' on line 7333.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \sisetup with sig. 'm' on line 7336.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \tablenum with sig. 'om' on line 7351.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \si with sig. 'om' on line 7363.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \numInBookmark with sig. 'om' on line 7410.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \numrangeInBookmark with sig. 'omm' on line 7412.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SIInBookmark with sig. 'omom' on line 7414.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SIlistInBookmark with sig. 'omm' on line 7416.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7418.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \siInBookmark with sig. 'om' on line 7419.
-.................................................
 
-(/usr/share/texmf-dist/tex/latex/translator/translator.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translato
+r.sty"
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 ))
-(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.st
+y"
 \lst@mode=\count302
 \lst@gtempboxa=\box57
 \lst@token=\toks28
@@ -845,28 +768,34 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 \lst@lineno=\count307
 \lst@maxwidth=\dimen263
 
-(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+"
 File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 \c@lstnumber=\count308
 \lst@skipnumbers=\count309
 \lst@framebox=\box58
 )
-(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cf
+g"
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/listingsutf8.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\listingsutf
+8.sty"
 Package: listingsutf8 2016/05/16 v1.3 Allow UTF-8 in listings input (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\stringenc
+.sty"
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 ))
-(/usr/share/texmf-dist/tex/latex/oberdiek/accsupp.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\accsupp.sty
+"
 Package: accsupp 2018/03/28 v0.5 Accessibility support by marked content (HO)
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/accsupp-pdftex.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\accsupp-pdf
+tex.def"
 File: accsupp-pdftex.def 2018/03/28 v0.5 accsupp driver for pdfTeX (HO)
 ))
 1: subsection
@@ -875,43 +804,56 @@ File: accsupp-pdftex.def 2018/03/28 v0.5 accsupp driver for pdfTeX (HO)
 1: subsection
 Package hyperref Info: Option `colorlinks' set `true' on input line 265.
 Package hyperref Info: Option `breaklinks' set `true' on input line 265.
-) (/usr/share/texmf-dist/tex/latex/was/gensymb.sty
+) ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(/usr/share/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\circuitikz\circuitik
+z.sty"
 Package: circuitikz 2017/05/28{} The CircuiTikz circuit drawing package version
  0.8.3
 
-(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\ti
+kz.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.s
+ty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs
+.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfu
+til-common.tex"
 \pgfutil@everybye=\toks29
 \pgfutil@tempdima=\dimen264
 \pgfutil@tempdimb=\dimen265
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfu
+til-common-lists.tex"))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfu
+til-latex.def"
 \pgfutil@abb=\box59
 
-(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfr
+cs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfco
+re.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfs
+ys.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+fsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfk
+eys.code.tex"
 \pgfkeys@pathtoks=\toks30
 \pgfkeys@temptoks=\toks31
 
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfk
+eysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks32
 ))
 \pgf@x=\dimen266
@@ -932,29 +874,35 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \t@pgf@tokb=\toks34
 \t@pgf@tokc=\toks35
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+f.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+fsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+fsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+fsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count314
 \pgfsyssoftpath@bigbuffer@items=\count315
 )
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pg
+fsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.c
+fg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -968,13 +916,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+core.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.c
+ode.tex"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathca
+lc.code.tex"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathut
+il.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathpa
+rser.code.tex"
 \pgfmath@dimen=\dimen274
 \pgfmath@count=\count316
 \pgfmath@box=\box60
@@ -982,19 +935,30 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks37
 \pgfmath@stack@operation=\toks38
 )
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
-.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
-x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
-.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.code.tex"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.basic.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.trigonometric.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.random.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.comparison.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.base.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.round.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.misc.code.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfu
+nctions.integerarithmetics.code.tex")))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfl
+oat.code.tex"
 \c@pgfmathroundto@lastzeros=\count317
-)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen275
 \pgf@picmaxx=\dimen276
@@ -1011,99 +975,128 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen287
 \pgf@zy=\dimen288
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen289
 \pgf@path@lasty=\dimen290
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen291
 \pgf@shorten@start@additional=\dimen292
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
 \pgf@picture@serial@count=\count318
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen293
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
-ex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen294
 \pgf@pt@y=\dimen295
 \pgf@pt@temp=\dimen296
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
-x
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen297
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen298
 \pgf@sys@shading@range@num=\count319
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box64
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+coretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgf
+corepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmod
+uleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box65
 )
-(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmod
+uleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pg
+fcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen299
 \pgf@nodesepend=\dimen300
 )
-(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pg
+fcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor
+.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkey
+s.sty"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfk
+eys.code.tex"))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+"
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.c
+ode.tex"))
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgff
+or.code.tex"
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.c
+ode.tex")
 \pgffor@iter=\dimen301
 \pgffor@skip=\dimen302
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
 ))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\
+tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
-x
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgfl
+ibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count320
 \pgfplotmarksize=\dimen303
@@ -1122,7 +1115,9 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count322
 \tikznumberofcurrentchild=\count323
 \tikz@fig@count=\count324
- (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmod
+ulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count325
 \pgfmatrixcurrentcolumn=\count326
@@ -1130,19 +1125,21 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count328
 
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-topaths.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-calc.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\
+tikz\libraries\tikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
 )
-(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgfl
+ibraryarrows.code.tex"
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \arrowsize=\dimen310
 )
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+.defines.tex"
 \pgf@circ@res@up=\dimen311
 \pgf@circ@res@down=\dimen312
 \pgf@circ@res@zero=\dimen313
@@ -1154,43 +1151,51 @@ File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \pgfstartlinewidth=\dimen319
 \pgf@circ@Rlen=\dimen320
 )
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex)
-(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex))
-(./etit-workshop-protokoll-bsp.aux)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+utils.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+shapes.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+monopoles.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+bipoles.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+tripoles.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+quadpoles.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+label.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+voltage.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+current.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+flow.tex")
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc
+path.tex")) (etit-workshop-protokoll-bsp.aux)
 \openout1 = `etit-workshop-protokoll-bsp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 32.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 30.
-
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count329
 \scratchdimen=\dimen321
@@ -1203,10 +1208,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 \MPnumerator=\count333
 \makeMPintoPDFobject=\count334
 \everyMPtoPDFconversion=\toks42
-) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-ba
+se.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1215,11 +1222,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
 
 Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                Using scrlayer-scrpage the head height
@@ -1233,20 +1236,21 @@ Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                to avoid this warning.
 
 \AtBeginShipoutBox=\box71
-Package hyperref Info: Link coloring ON on input line 30.
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring ON on input line 32.
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitles
+tring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count335
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
-
-(./etit-workshop-protokoll-bsp.out) (./etit-workshop-protokoll-bsp.out)
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
+ (etit-workshop-protokoll-bsp.out) (etit-workshop-protokoll-bsp.out)
 \@outlinefile=\write4
 \openout4 = `etit-workshop-protokoll-bsp.out'.
 
@@ -1290,7 +1294,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-(/usr/share/texmf-dist/tex/latex/base/ts1enc.dfu
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1363,34 +1367,36 @@ File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
    defining Unicode char U+266A (decimal 9834)
    defining Unicode char U+FEFF (decimal 65279)
 )
-(/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
-.dict
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translato
+r-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
-) (/usr/share/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbr
+eviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \c@lstlisting=\count336
-LaTeX Info: Redefining \celsius on input line 30.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 30.
+LaTeX Info: Redefining \celsius on input line 32.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 32.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 30.
-Package gensymb Info: Using \Omega for \ohm on input line 30.
+LaTeX Info: Redefining \ohm on input line 32.
+Package gensymb Info: Using \Omega for \ohm on input line 32.
 
 Package gensymb Warning: Not defining \micro.
 
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1425,95 +1431,57 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<kit_logo_de_farbe_positiv.pdf, id=79, 196.91566pt x 90.6587pt>
+<kit_logo_de_farbe_positiv.pdf, id=86, 196.91566pt x 90.6587pt>
 File: kit_logo_de_farbe_positiv.pdf Graphic file (type pdf)
 <use kit_logo_de_farbe_positiv.pdf>
-Package pdftex.def Info: kit_logo_de_farbe_positiv.pdf  used on input line 32.
+Package pdftex.def Info: kit_logo_de_farbe_positiv.pdf  used on input line 34.
 (pdftex.def)             Requested size: 88.61122pt x 40.79602pt.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 32.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 15.89755pt on input line 32.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.08076pt on input line 32.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 19.08076pt on input line 32.
-<etit_titelbild.pdf, id=80, 455.2441pt x 320.25285pt>
+<etit_titelbild.pdf, id=87, 455.2441pt x 320.25285pt>
 File: etit_titelbild.pdf Graphic file (type pdf)
 <use etit_titelbild.pdf>
-Package pdftex.def Info: etit_titelbild.pdf  used on input line 32.
+Package pdftex.def Info: etit_titelbild.pdf  used on input line 34.
 (pdftex.def)             Requested size: 227.62204pt x 160.12604pt.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd")
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/lmr/m/n/12 Matrikel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|[][]$\T1/pcr/m/n/12 ujzpo @ student .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|[][]$\T1/pcr/m/n/12 uxgce @ student .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|[][]$\T1/pcr/m/n/12 uhhxt @ student .
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 32.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 32.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 32.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 32.
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./kit_logo_de_farbe_positi
-v.pdf> <./etit_titelbild.pdf>] (./abstract.tex
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 2.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 3.
+{C:/Users/mhv/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./kit_logo_de
+_farbe_positiv.pdf> <./etit_titelbild.pdf>] (abstract.tex) [2
 
-Overfull \hbox (0.1604pt too wide) in paragraph at lines 3--4
-\T1/phv/m/n/12 der ab-schlie-ÿen-den Pro-jekt-do-ku-men-ta-ti-on be-ach-ten sol
-l-ten. Gleich-zei-tig dient die-
- []
-
-)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
- [2
-
-] (./etit-workshop-protokoll-bsp.toc)
+]
+(etit-workshop-protokoll-bsp.toc)
 \tf@toc=\write5
 \openout5 = `etit-workshop-protokoll-bsp.toc'.
 
- (./etit-workshop-protokoll-bsp.lof)
+ (etit-workshop-protokoll-bsp.lof)
 \tf@lof=\write6
 \openout6 = `etit-workshop-protokoll-bsp.lof'.
 
 
-(./etit-workshop-protokoll-bsp.lot)
+(etit-workshop-protokoll-bsp.lot)
 \tf@lot=\write7
 \openout7 = `etit-workshop-protokoll-bsp.lot'.
 
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.03998pt on input line 42.
 
 
 Package scrlayer-scrpage Warning: \headheight to low.
@@ -1524,347 +1492,263 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=15.95007pt'.
 (scrlayer-scrpage)                I'll also decrease \topmargin on input line 4
-2.
+6.
 
 
 Overfull \vbox (0.95007pt too high) has occurred while \output is active []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 42.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 42.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 42.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 42.
 
 [3
 
-]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 44.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 44.
+] (einleitung.tex [4
 
-Overfull \hbox (131.69568pt too wide) in paragraph at lines 45--54
-\OML/cmm/m/it/12 ==www:umweltbundesamt:de=sites=default=files=medien=\OT1/cmr/m
-/n/12 376\OML/cmm/m/it/12 =publikationen=\OT1/cmr/m/n/12 180315[]\OML/cmm/m/it/
-12 ba[]g[]einzahlen[]\OT1/cmr/m/n/12 018[]\OML/cmm/m/it/12 f:pdf\OT1/cmr/m/n/12
- )$ 
- []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 86.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 86.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 88.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 88.
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+]) (literaturrecherche.tex) (aufgabe_2_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
-[4
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 127--129
+LaTeX Font Warning: Command \small invalid in math mode on input line 12.
+
+
+Overfull \hbox (5.84145pt too wide) detected at line 31
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
-(./spannung_halogen.pdf_tex
-<spannung_halogen.pdf, id=166, page=1, 361.35pt x 113.32191pt>
+(spannung_halogen.pdf_tex
+<spannung_halogen.pdf, id=181, page=1, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 1>
 Package pdftex.def Info: spannung_halogen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_halogen.pdf, id=167, page=2, 361.35pt x 113.32191pt>
+<spannung_halogen.pdf, id=182, page=2, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 2>
 Package pdftex.def Info: spannung_halogen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_halogen.pdf, id=168, page=3, 361.35pt x 113.32191pt>
+<spannung_halogen.pdf, id=183, page=3, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 3>
 Package pdftex.def Info: spannung_halogen.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-)
-Underfull \vbox (badness 5119) has occurred while \output is active []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
- [5]
-(./spannung_lsr.pdf_tex
-<spannung_lsr.pdf, id=174, page=1, 361.35pt x 113.32191pt>
+) (spannung_lsr.pdf_tex
+<spannung_lsr.pdf, id=184, page=1, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 1>
 Package pdftex.def Info: spannung_lsr.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_lsr.pdf, id=175, page=2, 361.35pt x 113.32191pt>
+<spannung_lsr.pdf, id=185, page=2, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 2>
 Package pdftex.def Info: spannung_lsr.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_lsr.pdf, id=176, page=3, 361.35pt x 113.32191pt>
+<spannung_lsr.pdf, id=186, page=3, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 3>
 Package pdftex.def Info: spannung_lsr.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-) (./spannung_led.pdf_tex
-<spannung_led.pdf, id=177, page=1, 361.35pt x 113.32191pt>
+) [6 <./spannung_halogen.pdf> <./spannung_halogen.pdf
+
+pdfTeX warning: pdflatex.exe (file ./spannung_halogen.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./spannung_halogen.pdf
+
+pdfTeX warning: pdflatex.exe (file ./spannung_halogen.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] (spannung_led.pdf_tex
+<spannung_led.pdf, id=198, page=1, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 1>
 Package pdftex.def Info: spannung_led.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_led.pdf, id=178, page=2, 361.35pt x 113.32191pt>
+<spannung_led.pdf, id=199, page=2, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 2>
 Package pdftex.def Info: spannung_led.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_led.pdf, id=179, page=3, 361.35pt x 113.32191pt>
+<spannung_led.pdf, id=200, page=3, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 3>
 Package pdftex.def Info: spannung_led.pdf , page3 used on input line 72.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
 )
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 154.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 154.
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--157
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 159.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 159.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 159.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 159.
-[6 <./spannung_halogen.pdf> <./spannung_halogen.pdf
+[7 <./spannung_lsr.pdf> <./spannung_lsr.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_halogen.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
-> <./spannung_halogen.pdf
-
-pdfTeX warning: pdflatex (file ./spannung_halogen.pdf): PDF inclusion: multiple
+pdfTeX warning: pdflatex.exe (file ./spannung_lsr.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 > <./spannung_lsr.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_lsr.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
-> <./spannung_lsr.pdf
-
-pdfTeX warning: pdflatex (file ./spannung_lsr.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
-> <./spannung_lsr.pdf
-
-pdfTeX warning: pdflatex (file ./spannung_lsr.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_lsr.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
 > <./spannung_led.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_led.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_led.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
 > <./spannung_led.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_led.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_led.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
 > <./spannung_led.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_led.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_led.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
 >]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 169.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 169.
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--172
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 175.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 175.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 176.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 176.
-(./spannung_langzeit.pdf_tex
-<spannung_langzeit.pdf, id=198, page=1, 505.89pt x 361.35pt>
+) (aufgabe_2_3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.st
+y"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 10.
+ ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\se-utf8.d
+ef"
+File: se-utf8.def 2016/05/16 v1.11 stringenc: UTF-8
+)
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\se-iso-88
+59-1.def"
+File: se-iso-8859-1.def 2016/05/16 v1.11 stringenc: ISO-8859-1
+)
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <12> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 17.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 24.
+
+Underfull \vbox (badness 5050) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+(spannung_langzeit.pdf_tex
+<spannung_langzeit.pdf, id=225, page=1, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 1>
 Package pdftex.def Info: spannung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=199, page=2, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=226, page=2, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 2>
 Package pdftex.def Info: spannung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=200, page=3, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=227, page=3, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 3>
 Package pdftex.def Info: spannung_langzeit.pdf , page3 used on input line 76.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 184.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 184.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 184.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 184.
- [7] (./leistung_langzeit.pdf_tex
-<leistung_langzeit.pdf, id=206, page=1, 505.89pt x 361.35pt>
+) (leistung_langzeit.pdf_tex
+<leistung_langzeit.pdf, id=228, page=1, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 1>
 Package pdftex.def Info: leistung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=207, page=2, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=229, page=2, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 2>
 Package pdftex.def Info: leistung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=208, page=3, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=230, page=3, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 3>
 Package pdftex.def Info: leistung_langzeit.pdf , page3 used on input line 74.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) [9 <./spannung_langzeit.pdf> <./spannung_langzeit.pdf
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 193.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 193.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 193.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 193.
- [8 <./spannung_langzeit.pdf> <./spannung_langzeit.pdf
-
-pdfTeX warning: pdflatex (file ./spannung_langzeit.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_langzeit.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./spannung_langzeit.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_langzeit.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_langzeit.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 >]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 196.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 196.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 199.
-
- (/usr/share/texmf-dist/tex/latex/psnfss/omsphv.fd
-File: omsphv.fd 
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 46.
+ ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 199.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 203.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 203.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 203.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 203.
- [9 <./leistung_langzeit.pdf> <./leistung_langzeit.pdf
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 46.
 
-pdfTeX warning: pdflatex (file ./leistung_langzeit.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+
+("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 46.
+
+[10 <./leistung_langzeit.pdf> <./leistung_langzeit.pdf
+
+pdfTeX warning: pdflatex.exe (file ./leistung_langzeit.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./leistung_langzeit.pdf
 
-pdfTeX warning: pdflatex (file ./leistung_langzeit.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
->]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 204.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 204.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 205.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 205.
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
-
- []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 214.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 214.
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
+pdfTeX warning: pdflatex.exe (file ./leistung_langzeit.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]) (aufgabe_2_4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--225
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-(./spannung_aufladen.pdf_tex
-<spannung_aufladen.pdf, id=222, page=1, 433.62pt x 216.81pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--22
+
+ []
+
+(spannung_aufladen.pdf_tex
+<spannung_aufladen.pdf, id=257, page=1, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 1>
 Package pdftex.def Info: spannung_aufladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=223, page=2, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=258, page=2, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 2>
 Package pdftex.def Info: spannung_aufladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=224, page=3, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=259, page=3, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 3>
 Package pdftex.def Info: spannung_aufladen.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-) (./spannung_entladen.pdf_tex
-<spannung_entladen.pdf, id=225, page=1, 433.62pt x 216.81pt>
+) (spannung_entladen.pdf_tex
+<spannung_entladen.pdf, id=260, page=1, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 1>
 Package pdftex.def Info: spannung_entladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=226, page=2, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=261, page=2, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 2>
 Package pdftex.def Info: spannung_entladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=227, page=3, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=262, page=3, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 3>
 Package pdftex.def Info: spannung_entladen.pdf , page3 used on input line 72.
@@ -1872,230 +1756,208 @@ Package pdftex.def Info: spannung_entladen.pdf , page3 used on input line 72.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 239.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 239.
- [10]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 240.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 240.
-
-Underfull \hbox (badness 10000) in paragraph at lines 241--243
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 252.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 252.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 252.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 252.
-[11 <./spannung_aufladen.pdf> <./spannung_aufladen.pdf
+[12 <./spannung_aufladen.pdf> <./spannung_aufladen.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_aufladen.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_aufladen.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./spannung_aufladen.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_aufladen.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_aufladen.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./spannung_entladen.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_entladen.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_entladen.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./spannung_entladen.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_entladen.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_entladen.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 > <./spannung_entladen.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_entladen.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_entladen.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
 >]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 264.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 264.
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--267
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--273
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--278
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 286.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 286.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 287.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 287.
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
+) (aufgabe_2_5.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 290.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 290.
- [12]
-(./spannung_kondensator.pdf_tex
-<spannung_kondensator.pdf, id=243, page=1, 433.62pt x 216.81pt>
+ [13]
+(spannung_kondensator.pdf_tex
+<spannung_kondensator.pdf, id=279, page=1, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 1>
 Package pdftex.def Info: spannung_kondensator.pdf , page1 used on input line 56
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=244, page=2, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=280, page=2, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 2>
 Package pdftex.def Info: spannung_kondensator.pdf , page2 used on input line 64
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=245, page=3, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=281, page=3, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 3>
 Package pdftex.def Info: spannung_kondensator.pdf , page3 used on input line 72
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=246, page=4, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=282, page=4, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 4>
 Package pdftex.def Info: spannung_kondensator.pdf , page4 used on input line 74
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=247, page=5, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=283, page=5, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 5>
 Package pdftex.def Info: spannung_kondensator.pdf , page5 used on input line 76
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
 )
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 302.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 302.
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 307.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 307.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 307.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 307.
-[13 <./spannung_kondensator.pdf> <./spannung_kondensator.pdf
+[14 <./spannung_kondensator.pdf> <./spannung_kondensator.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_kondensator.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_kondensator.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
 > <./spannung_kondensator.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_kondensator.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_kondensator.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
 > <./spannung_kondensator.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_kondensator.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./spannung_kondensator.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
 > <./spannung_kondensator.pdf
 
-pdfTeX warning: pdflatex (file ./spannung_kondensator.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
->]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 324.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 324.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 324.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 324.
- [14] (./literatur.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+pdfTeX warning: pdflatex.exe (file ./spannung_kondensator.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>]) [15] (literatur.tex
+Underfull \hbox (badness 4024) in paragraph at lines 5--6
+[]\T1/lmr/m/n/12 Baden-Württemberg/Innovationsbeirat. \T1/lmr/m/it/12 Zu-kunft 
+der Ener-gie-ver-sor-gung\T1/lmr/m/n/12 . Ver-lag
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\T1/lmr/m/n/12 Umweltbundesamt. \T1/lmr/m/it/12 Er-neu-er-ba-re Ener-gi-en in
+ Deutsch-land\T1/lmr/m/n/12 . [][]$\T1/pcr/m/n/12 https : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\T1/pcr/m/n/12 www . umweltbundesamt . de / sites / default / files / medien / 
+376 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\T1/pcr/m/n/12 publikationen / 180315 _ uba _ hg _ eeinzahlen _ 2018 _ bf . pdf
+$[][]\T1/lmr/m/n/12 , Ab-ruf-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\T1/lmr/m/it/12 Tracking\T1/lmr/m/n/12 . [][]$\T1/pcr/m/n/12 http : / / edoc . 
+sub . uni -[] hamburg . de / haw / volltexte / 2010 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\T1/pcr/m/n/12 1055 / pdf / Diplomarbeit _ Ruediger _ Heidenreich _ 2010 . pdf$
+[][]\T1/lmr/m/n/12 , Ab-ruf-da-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 [][][]$\T1/pcr/m/n/12 http : / / www . starkerstart . uni -[] frankfurt . de / 
 43759138 / FB09 -[]
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 2--3
-\T1/pcr/m/n/12 Musikwissenschaften -[] Richtiges -[] Zitieren . pdf$[][]\T1/phv
-/m/n/12 , Ab-ruf-da-tum: 30. No-
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\T1/pcr/m/n/12 Musikwissenschaften -[] Richtiges -[] Zitieren . pdf$[][]\T1/lmr
+/m/n/12 , Ab-ruf-da-tum: 30.
  []
 
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.03998pt on input line 4.
-)
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 327.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 327.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 327.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 327.
- [15
+) [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
- (./etit-workshop-protokoll-bsp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
-Package rerunfilecheck Info: File `etit-workshop-protokoll-bsp.out' has not cha
-nged.
-(rerunfilecheck)             Checksum: D90760129A199E10D1EAFDCD7F005F66;1402.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+ (etit-workshop-protokoll-bsp.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+
+
+Package rerunfilecheck Warning: File `etit-workshop-protokoll-bsp.out' has chan
+ged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `etit-workshop-protokoll-bsp.out':
+(rerunfilecheck)             Before: 76DBE862FC62EA06EA23B9F45C140425;1564
+(rerunfilecheck)             After:  40CABD7FFF369F577BD8613CA8101C27;1584.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 42404 strings out of 492642
- 919360 string characters out of 6135565
- 1154037 words of memory out of 5000000
- 45716 multiletter control sequences out of 15000+600000
- 564122 words of font info for 68 fonts, out of 8000000 for 9000
+ 43630 strings out of 492969
+ 946340 string characters out of 3127473
+ 1375190 words of memory out of 3000000
+ 46861 multiletter control sequences out of 15000+200000
+ 578842 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,20n,73p,9107b,932s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/u
-rw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
-b></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-
-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on etit-workshop-protokoll-bsp.pdf (15 pages, 529878 bytes).
+ 73i,20n,73p,9109b,2276s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+{C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.en
+c}{C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mhv/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mhv/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mhv/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
+s/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Us
+ers/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/U
+sers/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/
+Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:
+/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><
+C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb
+><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.p
+fb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrb
+8a.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/
+ucrr8a.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cour
+ier/ucrro8a.pfb>
+Output written on etit-workshop-protokoll-bsp.pdf (16 pages, 727090 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 297 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 395 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
 

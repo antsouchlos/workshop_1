@@ -1,18 +1,20 @@
 \BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
-\BOOKMARK [1][-]{section.2}{Aufgaben}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Literaturrecherche}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Vermessung der Solarzelle POW112D2P}{section.2}% 4
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Aufnehmen der I-U Kennlinie}{subsection.2.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.2.2}{Bestimmung des Maximum-Power-Points \(MPP\)}{subsection.2.2}% 6
-\BOOKMARK [3][-]{subsubsection.2.2.3}{MPP-Anpassung}{subsection.2.2}% 7
-\BOOKMARK [2][-]{subsection.2.3}{Langzeitmessung}{section.2}% 8
-\BOOKMARK [3][-]{subsubsection.2.3.1}{Spannungsverlauf und Leistung}{subsection.2.3}% 9
-\BOOKMARK [3][-]{subsubsection.2.3.2}{Energiegewinnung}{subsection.2.3}% 10
-\BOOKMARK [2][-]{subsection.2.4}{Energiespeicherung und Verhalten von Solarzellen}{section.2}% 11
-\BOOKMARK [3][-]{subsubsection.2.4.1}{Theoretische Betrachtung}{subsection.2.4}% 12
-\BOOKMARK [3][-]{subsubsection.2.4.2}{Messung}{subsection.2.4}% 13
-\BOOKMARK [3][-]{subsubsection.2.4.3}{Modellbildung}{subsection.2.4}% 14
-\BOOKMARK [3][-]{subsubsection.2.4.4}{Gesamtenergie und Wirkungsgrad}{subsection.2.4}% 15
-\BOOKMARK [2][-]{subsection.2.5}{Verhalten Photovoltaik mit und ohne Energiespeicher}{section.2}% 16
-\BOOKMARK [3][-]{subsubsection.2.5.1}{Messung}{subsection.2.5}% 17
-\BOOKMARK [3][-]{subsubsection.2.5.2}{Auswirkung des Speicherkondensators}{subsection.2.5}% 18
+\BOOKMARK [2][-]{subsection.1.1}{Projektorganisation}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Theoretische Grundlagen/ Literaturrecherche}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Aufgaben}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Literaturrecherche}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Vermessung der Solarzelle POW112D2P}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Aufnehmen der I-U Kennlinie}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Bestimmung des Maximum-Power-Points \(MPP\)}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{MPP-Anpassung}{subsection.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Langzeitmessung}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Spannungsverlauf und Leistung}{subsection.2.3}% 11
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Energiegewinnung}{subsection.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.4}{Energiespeicherung und Verhalten von Solarzellen}{section.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Theoretische Betrachtung}{subsection.2.4}% 14
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Messung}{subsection.2.4}% 15
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Modellbildung}{subsection.2.4}% 16
+\BOOKMARK [3][-]{subsubsection.2.4.4}{Gesamtenergie und Wirkungsgrad}{subsection.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.5}{Verhalten Photovoltaik mit und ohne Energiespeicher}{section.2}% 18
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Messung}{subsection.2.5}% 19
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Auswirkung des Speicherkondensators}{subsection.2.5}% 20
