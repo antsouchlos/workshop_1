@@ -1,0 +1,78 @@
+%% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'spannung_kondensator.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{432bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.5)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{spannung_kondensator.pdf}}%
+    \put(0.12239583,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.2625,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}500\end{tabular}}}}%
+    \put(0.41041667,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1000\end{tabular}}}}%
+    \put(0.56527778,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1500\end{tabular}}}}%
+    \put(0.72013889,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2000\end{tabular}}}}%
+    \put(0.875,0.03935191){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2500\end{tabular}}}}%
+    \put(0.40885451,0.00694444){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Zeit in Sekunden\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{spannung_kondensator.pdf}}%
+    \put(0.10532413,0.06336806){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
+    \put(0.08275469,0.14149306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.2\end{tabular}}}}%
+    \put(0.08275469,0.21961806){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.4\end{tabular}}}}%
+    \put(0.08275469,0.29774306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.6\end{tabular}}}}%
+    \put(0.08275469,0.37586806){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.8\end{tabular}}}}%
+    \put(0.10532413,0.45399306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
+    \put(0.0688658,0.15711823){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spannung in Volt\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{spannung_kondensator.pdf}}%
+    \put(0.68402778,0.41989983){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mit Kondensator\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{spannung_kondensator.pdf}}%
+    \put(0.68402778,0.39260017){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ohne Kondensator\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{spannung_kondensator.pdf}}%
+  \end{picture}%
+\endgroup%
