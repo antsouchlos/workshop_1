@@ -3,8 +3,29 @@
         \textbf{Methode}
         \newline
         
-        \par Zunächst soll die Solarzelle mit drei unterschiedlichen Lichtquellen bestrahlt werden. Hierbei wird eine Schaltung aufgestellt, bestehend aus einer Diode, welche eine umgekehrte Stromrichtung verhindert, einer Zener-Diode, die die maximale Spannung eingrenzt, und einem Spannungsteiler. Angeschlossen werden die Solarzelle sowie das TI-Board.
-        
+        \par Zunächst soll die Solarzelle mit drei unterschiedlichen Lichtquellen bestrahlt werden. 
+        Für die Messung kommen folgende Bauteile zum Einsatz, wobei der Speicherkondensator erst in den angehenden Aufgaben verwendet wird.
+        \begin{table}[H]
+        	\centering
+        	\caption{Verwendetes Material}
+        	\label{tab:Bauteile}
+        	\begin{tabular}{ccc}
+        		\toprule
+        		Bauteiltyp & Bezeichnung / Beschreibung & Wert\\
+        		\midrule
+        		Solarzelle & SEEED Studio POW112D2P  & U\textsubscript{OC} = 5,5V, I\textsubscript{SC} = 4 mA bei 5 klx \\
+        		Zener-Diode & ZF 5,1; 5,1V 0,5W  & V = 5,1 V; P = 0,5W \\
+        		Speicherkondensator & Panasonic 5,5V 220 mF & V = 5,5V; C = 220,0mF \\
+        		Stützkondensator & Keramikkondensator Code 104 & C = 100,0nF \\
+        		Widerstand & Kohleschichtewiderstände  & 10$\Omega$ - 10M$\Omega$ ; P = 0,25W; 5\% \\
+        		Steckbrett & Breadboard
+        		& \ \\
+        		Drahtbrücke & Drahtbrücken-Set 140-teilig
+        		& \ \\
+        		\bottomrule
+        	\end{tabular}
+        \end{table}
+        Hierbei wird eine Schaltung aufgestellt, bestehend aus einer Diode, welche eine umgekehrte Stromrichtung verhindert, einer Zener-Diode, die die maximale Spannung eingrenzt, und einem Spannungsteiler. Angeschlossen werden die Solarzelle sowie das TI-Board. Diese ist in Abbildung \ref{fig:Schaltkreis} dargestellt.
         \begin{figure}[H]
             $$
             \ctikzset{bipoles/length=1cm}
@@ -34,9 +55,9 @@
             \label{fig:Schaltkreis}
         \end{figure}
         
-        \par Unter gleichbleibenden Bedingungen wurde die Spannung in Abhängigkeit des Widerstandes gemessen, indem Widerstände in Reihe geschaltet wurden. Es wurden in diesem Fall zwölf Widerstände in einem Intervall zwischen 10 Ohm bis 5200 Ohm verwendet. Mit MatLab lässt sich die Stromstärke aufgrund von I = U/R ermitteln, sodass man sich den Graphen der Stromstärke in Abhängigkeit der Spannung zeichnen lassen kann.
+        \par Unter gleichbleibenden Bedingungen wurde die Spannung in Abhängigkeit des Widerstandes gemessen, indem Widerstände in Reihe geschaltet wurden. Es wurden in diesem Fall zwölf Widerstände in einem Intervall zwischen 10$\Omega$ bis 5200$\Omega$ verwendet. Mit MatLab lässt sich die Stromstärke aufgrund von I = U/R ermitteln, sodass man sich den Graphen der Stromstärke in Abhängigkeit der Spannung zeichnen lassen kann.
         Die Werte der Lichtquellen sind in Tabelle \ref{tab:Werte} abgebildet:
-        \begin{table}[htb]
+        \begin{table}[H]
         	\centering
         	\caption{Angaben über Lichtquellen}
         	\label{tab:Werte}
@@ -86,6 +107,7 @@
         Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen/ von MatLab ausgeben. 
         
         \vspace{4mm}
+        \noindent
         \textbf{Ergebnis}
         \par Der MPP der Solarzelle unter der Verwendung einer Halogenlampe beträgt ca. 0,0313W und tritt bei 690 Ohm auf. Mit einer Leuchtstoffröhre liegt die maximale Leistung bei ungefähr 0,0075W, welche bei einem Widerstand von 1720 Ohm erreicht wird. Wird hingegen eine LED als Lichtquelle eingesetzt, befindet sich der MPP bei ca. 0,0059W bei einem Widerstand von 2200 Ohm.
         \par Anzumerken ist, dass es sich hierbei nur um einen groben Näherungswert handelt, da lediglich zwölf Messwerte für die Leitung vorliegen. Für eine genauere Bestimmung des MPPs kann mithilfe dieser Werte eine Näherungsfunktion aufgestellt werden, mit dessen Ableitung das Maximum ermittelt werden kann. 
