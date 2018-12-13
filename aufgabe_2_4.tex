@@ -34,6 +34,8 @@
             
             \caption{Spannungsverlauf bei Entladen des Kondensators}
         \end{figure}
+        
+        \clearpage
     \subsubsection{Modellbildung}                                       % 2.4 c
         \textbf{Diskussion}
         \newline
@@ -58,16 +60,20 @@
         Um die Solarzelle besser zu beschreiben, soll eine Stromquelle als Modell benutzt werden, denn die
         Stromstärke verändert sich im Verhältnis zur Spannung kaum.
 
+        \clearpage
     \subsubsection{Gesamtenergie und Wirkungsgrad}                      % 2.4 d
         \textbf{Methode/Materialien}
         \newline
         \par
-        (Matlab Skript „Energie.m“)
+        \begin{figure}[H]
+            \lstinputlisting[language=Matlab, frame=single, firstline=17]{messungen/Aufgabe_2_4/Energie.m}
+            \caption{Matlab-Skrip zur Berechnung des Wirkungsgrades}
+        \end{figure}
         \vspace{4mm}
-        \newline
+        %\newline
         \textbf{Ergebnis}
         \newline
-        \par Wirkungsgrad: 79.42%
+        \par Wirkungsgrad: 79.42\%
         \vspace{4mm}
         \newline
         \textbf{Diskussion}
