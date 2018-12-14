@@ -51,6 +51,11 @@
         	\end{tabular}
         \end{table}
         
+        \vspace{4mm}
+        \par Zur graphischen Darstellung wurde folgendes Matlab-Skript verwendet:
+        
+        \lstinputlisting[style=Matlab, firstline=22, lastline=29]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_spannung.m}
+        
         \vspace{5mm}
         \textbf{Ergebnis}
         \newline
@@ -83,7 +88,9 @@
         \textbf{Methode}
         \newline
         \par Die Leistung hängt von der Spannung sowie der Stromstärke ab aufgrund des Zusammenhanges $P=U*I$. Alternativ gilt wegen $I=U/R$ ebenfalls $P=U^2/R$, welche hier bevorzugt wird, da die Spannung sowie der Widerstand direkte Messwerte sind. Das vorhandene Skript für die Ermittlung der Stromstärke wird um einen Vektor für die Leistung erweitert.
-        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen/ von MatLab ausgeben. 
+        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen / von folgendem MatLab-Skript ausgeben:
+        
+        \lstinputlisting[style=Matlab, firstline=22, lastline=50]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_leistung_spannung.m}
         
         \vspace{4mm}
         \textbf{Ergebnis}
@@ -92,8 +99,19 @@
         Diskussion:
         \par Eine weitere Methode zur Bestimmung des MPPs ist über die Spannung und die Stromstärke möglich. So ist die Leistung das Produkt dieser, was auf die I-U-Kennlinie bezogen bedeutet, dass die Leistung den Flächeninhalt unter einem Punkt des Graphen wiederspiegelt. So bezeichnet man den Punkt der Kennlinie als MPP, unter dem die Fläche U*I am größten ist. \par (vgl. S.99, Photovoltaik)
         \par Dieser Zusammenhang wird in dem folgenden Diagramm veranschaulicht.
-        \par (Diagramm mit MPP fehlt)
 
+        \begin{figure}[H]
+            \def\svgwidth{\textwidth}
+            \input{stromstarke_leistung_spannung_halogen.pdf_tex}
+            \caption{Darstellung MPP bei benutzun von Halogenlampe}
+        \end{figure}
+        
+        \begin{figure}[H]
+            \def\svgwidth{\textwidth}
+            \input{stromstarke_leistung_spannung_lsr.pdf_tex}
+            \caption{Darstellung MPP bei benutzun von Leuchtstoffröhre}
+        \end{figure}
+        
         \begin{figure}[H]
             \def\svgwidth{\textwidth}
             \input{stromstarke_leistung_spannung_led.pdf_tex}

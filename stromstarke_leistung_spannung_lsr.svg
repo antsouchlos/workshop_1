@@ -207,7 +207,7 @@
     /></g
     ><g transform="translate(389.5279,144)" style="font-size:11.4px; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'SansSerif'; color-interpolation:linearRGB;"
     ><text x="0" xml:space="preserve" y="4" style="stroke:none;"
-      >Spannung</text
+      >Stromstärke</text
     ></g
     ><g style="stroke-linecap:butt; fill:rgb(0,114,189); text-rendering:geometricPrecision; image-rendering:optimizeQuality; color-rendering:optimizeQuality; stroke-linejoin:round; stroke:rgb(0,114,189); color-interpolation:linearRGB; stroke-width:0.6667;"
     ><line y2="144" style="fill:none;" x1="346.5759" x2="386.5312" y1="144"

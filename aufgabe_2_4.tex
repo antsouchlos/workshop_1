@@ -1,12 +1,58 @@
 \subsection {Energiespeicherung und Verhalten von Solarzellen}      % 2.4
     \subsubsection{Theoretische Betrachtung}                            % 2.4 a
+        \textbf{Methode}
+        \newline
+        \par
+        Im weiteren Verlauf dieses Abschnittes wird folgendes Matlab-Skript verwendet:
+        \newline
+        \lstinputlisting[style=Matlab, lastline=39]{messungen/Aufgabe_2_4/theorie.m}
         \textbf{Diskussion}
         \newline
         \par Ein Kondensator besteht aus zwei Metallflächen, die durch einen Isolator getrennt sind. Er dient zur Ladungsspeicherung, indem man ihn an eine Spannungsquelle schaltet. Die davor gleichmäßig verteilten Elektronen werden vom Minus-Pol gezogen, welches mit dem Plus-Pol der Quelle verbunden ist. Somit wird der Kondensator elektrisch geladen. Würde man jetzt die Spannungsquelle mit einem Widerstand wechseln, dann würde der Kondensator als Spannungsquelle fungieren und sich entladen. Der Minus-Pol des Kondensators, wo sich früher die Elektronen gelagert haben wird neutral, indem die Elektronen über dem Widerstand vom Plus-Pol weggezogen werden. Der Isolator sorgt dafür, dass der Minus- und Plus-Pol nie direkt in Verbindung kommen, so dass die Elektronen immer über einen Leiter wandern müssen.
         
-        $$
+        \begin{align}
+            \delta Q &= C * \delta U \\
+            \delta Q &= I * \delta t \\
+            C * \delta U &= I * \delta t \\
+            I &= \frac{C * I}{\delta t} \\
+            I_0 &= C \frac{\delta U}{\delta t} = C \frac{U - 0V}{t - 0V}=C\frac{U}{t} \\
+            I_0 &= \frac{U_0}{R} \\
+            C\frac{U}{t} &= \frac{U}{R} \\
+            t &= \tau = C*R \\
+            I &= \frac{U}{R} * e\textsuperscript{$-\frac{t}{\tau}$} = I_0 * e^{-\frac{t}{\tau}} \\
+            \frac{I}{I_0} &= e^{-\frac{t}{\tau}} \\
+            U &= U_0 * (1 - e^{-\frac{t}{\tau}}) \\
+            \frac{U}{U_0} &= 1 - e^{-\frac{t}{\tau}}
+        \end{align}
+        
+        \begin{align}
+            t &= \tau \\
+            \frac{I}{I_0} (t = \tau) &= e^{-\frac{\tau}{\tau}} = e^{-1} = \frac{1}{e}
+            %t = \tau &\Rightarrow \frac{1}{e}
+        \end{align}
+        
+        \begin{align}
+            t = 2\tau \Rightarrow \frac{1}{e^2} \approx 0.14 \\
+            t = 3\tau \Rightarrow \frac{1}{e^3} \approx 0.05 \\
+            t = 4\tau \Rightarrow \frac{1}{e^4} \approx 0.02 \\
+            t = 5\tau \Rightarrow \frac{1}{e^5} \approx 0.01
+        \end{align}
+        
+        \begin{align}
+            \frac{U}{U_0}(t=\tau) &= 1 - e^{-\frac{\tau}{\tau}} = 1 - e^{-1}
+        \end{align}
+
+        
+        \begin{align}
             \tau = R * C = 500 \Omega * 220mF = 110s
-        $$
+        \end{align}
+        
+        \begin{figure}[H]
+            \def\svgwidth{\textwidth}
+            \input{theorie_kondensator.pdf_tex}
+            \caption{Theoretischer Spannungsverlauf bei Entladung}
+        \end{figure}
+
         
     \subsubsection{Messung}                                             % 2.4 b
         \textbf{Methode/Materialien}
@@ -25,14 +71,14 @@
             \def\svgwidth{\textwidth}
             \input{spannung_aufladen.pdf_tex}
             
-            \caption{Spannungsverlauf bei Aufladen des Kondensators}
+            \caption{Spannungsverlauf bei Aufladung des Kondensators}
         \end{figure}
         \begin{figure}[H]
             %\includegraphics{leistung_langzeit}
             \def\svgwidth{\textwidth}
             \input{spannung_entladen.pdf_tex}
             
-            \caption{Spannungsverlauf bei Entladen des Kondensators}
+            \caption{Spannungsverlauf bei Entladung des Kondensators}
         \end{figure}
         
         \clearpage
@@ -59,6 +105,7 @@
         sinkt die Stromstärke. Wenn der Kondensator entladen ist, dann fließt kein Strom mehr.
         Um die Solarzelle besser zu beschreiben, soll eine Stromquelle als Modell benutzt werden, denn die
         Stromstärke verändert sich im Verhältnis zur Spannung kaum.
+        
 
         \clearpage
     \subsubsection{Gesamtenergie und Wirkungsgrad}                      % 2.4 d

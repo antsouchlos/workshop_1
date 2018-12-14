@@ -19,6 +19,10 @@ for i = 1:16
 	fclose(fileID);
 end
 
+V = 2 * V;
+
+% V: Vektor mit Spannungen
+
 I = V ./ R;
 
 plot(V, I)

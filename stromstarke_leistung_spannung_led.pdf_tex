@@ -84,7 +84,7 @@
     \put(0.921875,0.38888889){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
     \put(0.95138889,0.39930556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-3\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{stromstarke_leistung_spannung_led.pdf}}%
-    \put(0.67626372,0.15972222){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spannung\end{tabular}}}}%
+    \put(0.67626372,0.15972222){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stromstärke\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{stromstarke_leistung_spannung_led.pdf}}%
     \put(0.67626372,0.13454861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Leistung\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{stromstarke_leistung_spannung_led.pdf}}%
