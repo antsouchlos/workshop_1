@@ -53,5 +53,5 @@ legend(plots([4, 1, 2]), {'Spannung', 'Leistung', 'Darstellung MPP'}, 'Position'
 hold off
 
 fig.PaperUnits = "inches"
-fig.PaperPosition = [0 0 5 2.5]
+fig.PaperPosition = [0 0 6 2.5]
 print('/home/andreas/docs/kit/len/workshop/doc/latex/stromstarke_leistung_spannung_led', '-dsvg', '-r0')
