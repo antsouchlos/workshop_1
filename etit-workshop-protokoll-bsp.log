@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.20)  14 DEC 2018 03:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.20)  14 DEC 2018 11:05
 entering extended mode
 **./etit-workshop-protokoll-bsp.tex
 (etit-workshop-protokoll-bsp.tex
@@ -1526,17 +1526,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
  []
 
 (spannung_halogen.pdf_tex
-<spannung_halogen.pdf, id=185, page=1, 361.35pt x 113.32191pt>
+<spannung_halogen.pdf, id=186, page=1, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 1>
 Package pdftex.def Info: spannung_halogen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_halogen.pdf, id=186, page=2, 361.35pt x 113.32191pt>
+<spannung_halogen.pdf, id=187, page=2, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 2>
 Package pdftex.def Info: spannung_halogen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_halogen.pdf, id=187, page=3, 361.35pt x 113.32191pt>
+<spannung_halogen.pdf, id=188, page=3, 361.35pt x 113.32191pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 3>
 Package pdftex.def Info: spannung_halogen.pdf , page3 used on input line 73.
@@ -1546,33 +1546,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
 (spannung_lsr.pdf_tex
-<spannung_lsr.pdf, id=194, page=1, 361.35pt x 113.32191pt>
+<spannung_lsr.pdf, id=196, page=1, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 1>
 Package pdftex.def Info: spannung_lsr.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_lsr.pdf, id=195, page=2, 361.35pt x 113.32191pt>
+<spannung_lsr.pdf, id=197, page=2, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 2>
 Package pdftex.def Info: spannung_lsr.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_lsr.pdf, id=196, page=3, 361.35pt x 113.32191pt>
+<spannung_lsr.pdf, id=198, page=3, 361.35pt x 113.32191pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 3>
 Package pdftex.def Info: spannung_lsr.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
 ) (spannung_led.pdf_tex
-<spannung_led.pdf, id=197, page=1, 361.35pt x 113.32191pt>
+<spannung_led.pdf, id=199, page=1, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 1>
 Package pdftex.def Info: spannung_led.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_led.pdf, id=198, page=2, 361.35pt x 113.32191pt>
+<spannung_led.pdf, id=200, page=2, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 2>
 Package pdftex.def Info: spannung_led.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 142.76906pt.
-<spannung_led.pdf, id=199, page=3, 361.35pt x 113.32191pt>
+<spannung_led.pdf, id=201, page=3, 361.35pt x 113.32191pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 3>
 Package pdftex.def Info: spannung_led.pdf , page3 used on input line 72.
@@ -1652,17 +1652,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
  []
 
 (spannung_langzeit.pdf_tex
-<spannung_langzeit.pdf, id=226, page=1, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=228, page=1, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 1>
 Package pdftex.def Info: spannung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=227, page=2, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=229, page=2, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 2>
 Package pdftex.def Info: spannung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=228, page=3, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=230, page=3, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 3>
 Package pdftex.def Info: spannung_langzeit.pdf , page3 used on input line 76.
@@ -1672,17 +1672,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 (leistung_langzeit.pdf_tex
-<leistung_langzeit.pdf, id=247, page=1, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=249, page=1, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 1>
 Package pdftex.def Info: leistung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=248, page=2, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=250, page=2, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 2>
 Package pdftex.def Info: leistung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=249, page=3, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=251, page=3, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 3>
 Package pdftex.def Info: leistung_langzeit.pdf , page3 used on input line 74.
@@ -1703,30 +1703,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--42
 
  []
 
-
-Overfull \hbox (94.3566pt too wide) in paragraph at lines 43--44
-[]\T1/lmr/m/n/12 Das Ver-hält-nis som-mer-li-cher und win-ter-li-cher Strah-lun
-g ist durch-schnitt-lich 3:1 (https://www.solaranlage-
- []
-
-
-Overfull \hbox (10.97154pt too wide) in paragraph at lines 43--44
-\T1/lmr/m/n/12 ratgeber.de/photovoltaik/photovoltaik-leistung/photovoltaik-ertr
-ag-in-sommer-und-winter,
- []
-
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 49.
 ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 49.
 
 
 ("C:\Users\mhv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 48.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 49.
 
 [11 <./leistung_langzeit.pdf> <./leistung_langzeit.pdf
 
@@ -1752,33 +1740,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--23
  []
 
 [12] (spannung_aufladen.pdf_tex
-<spannung_aufladen.pdf, id=267, page=1, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=269, page=1, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 1>
 Package pdftex.def Info: spannung_aufladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=268, page=2, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=270, page=2, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 2>
 Package pdftex.def Info: spannung_aufladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=269, page=3, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=271, page=3, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 3>
 Package pdftex.def Info: spannung_aufladen.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
 ) (spannung_entladen.pdf_tex
-<spannung_entladen.pdf, id=270, page=1, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=272, page=1, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 1>
 Package pdftex.def Info: spannung_entladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=271, page=2, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=273, page=2, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 2>
 Package pdftex.def Info: spannung_entladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=272, page=3, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=274, page=3, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 3>
 Package pdftex.def Info: spannung_entladen.pdf , page3 used on input line 72.
@@ -1845,31 +1833,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
  []
 
 (spannung_kondensator.pdf_tex
-<spannung_kondensator.pdf, id=322, page=1, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=324, page=1, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 1>
 Package pdftex.def Info: spannung_kondensator.pdf , page1 used on input line 56
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=323, page=2, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=325, page=2, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 2>
 Package pdftex.def Info: spannung_kondensator.pdf , page2 used on input line 64
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=324, page=3, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=326, page=3, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 3>
 Package pdftex.def Info: spannung_kondensator.pdf , page3 used on input line 72
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=325, page=4, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=327, page=4, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 4>
 Package pdftex.def Info: spannung_kondensator.pdf , page4 used on input line 74
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=326, page=5, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=328, page=5, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 5>
 Package pdftex.def Info: spannung_kondensator.pdf , page5 used on input line 76
@@ -1936,20 +1924,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 [][][]$\T1/pcr/m/n/12 http : / / www . starkerstart . uni -[] frankfurt . de / 
 43759138 / FB09 -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
 \T1/pcr/m/n/12 Musikwissenschaften -[] Richtiges -[] Zitieren . pdf$[][]\T1/lmr
 /m/n/12 , Ab-ruf-da-tum: 30.
  []
 
-) [20
+[20
 
-]
+]) [21]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (etit-workshop-protokoll-bsp.aux)
@@ -1961,10 +1949,10 @@ nged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 43679 strings out of 492969
- 946973 string characters out of 3127473
- 1449797 words of memory out of 3000000
- 46873 multiletter control sequences out of 15000+200000
+ 43684 strings out of 492969
+ 946998 string characters out of 3127473
+ 1449845 words of memory out of 3000000
+ 46875 multiletter control sequences out of 15000+200000
  581834 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,20n,73p,9109b,2276s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1991,9 +1979,9 @@ fb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrb
 8a.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/
 ucrr8a.pfb><C:/Users/mhv/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cour
 ier/ucrro8a.pfb>
-Output written on etit-workshop-protokoll-bsp.pdf (20 pages, 761279 bytes).
+Output written on etit-workshop-protokoll-bsp.pdf (21 pages, 766352 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
- 109 named destinations out of 1000 (max. 500000)
+ 462 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
  305 words of extra memory for PDF output out of 10000 (max. 10000000)
 
