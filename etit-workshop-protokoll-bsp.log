@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.12)  14 DEC 2018 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.12)  14 DEC 2018 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1591,7 +1591,7 @@ Package babel Info: Redefining ngerman shorthand "~
 File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 57.
+nput line 58.
 
 (/usr/share/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2018/04/06 v1.3b Input encoding file
@@ -1602,37 +1602,37 @@ File: se-utf8.def 2016/05/16 v1.11 stringenc: UTF-8
 (/usr/share/texmf-dist/tex/generic/oberdiek/se-iso-8859-1.def
 File: se-iso-8859-1.def 2016/05/16 v1.11 stringenc: ISO-8859-1
 )
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
 (./spannung_halogen.pdf_tex
-<spannung_halogen.pdf, id=195, page=1, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=197, page=1, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 1>
 Package pdftex.def Info: spannung_halogen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_halogen.pdf, id=196, page=2, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=198, page=2, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 2>
 Package pdftex.def Info: spannung_halogen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_halogen.pdf, id=197, page=3, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=199, page=3, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 3>
 Package pdftex.def Info: spannung_halogen.pdf , page3 used on input line 70.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
 )
-Underfull \vbox (badness 2512) has occurred while \output is active []
+Underfull \vbox (badness 1558) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 74.
  [7]
 (./spannung_lsr.pdf_tex
 <spannung_lsr.pdf, id=216, page=1, 361.35pt x 108.405pt>
@@ -1668,22 +1668,22 @@ Package pdftex.def Info: spannung_led.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 91.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 91.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 96.
 [8 <./spannung_halogen.pdf> <./spannung_halogen.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./spannung_halogen.pdf): PDF inclusion:
@@ -1720,13 +1720,13 @@ tiple pdfs with page group included in a single page
 File: latin1.def 2018/04/06 v1.3b Input encoding file
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 104.
  [9]
 (./stromstarke_leistung_spannung_halogen.pdf_tex
 <stromstarke_leistung_spannung_halogen.pdf, id=266, page=1, 433.62pt x 180.675p
@@ -1870,13 +1870,13 @@ input line 92.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 124.
  [10 <./stromstarke_leistung_spannung_halogen.pdf> <./stromstarke_leistung_span
 nung_halogen.pdf
 
@@ -1932,11 +1932,11 @@ pdfTeX warning: /usr/bin/pdflatex (file ./stromstarke_leistung_spannung_lsr.pdf
 ): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 125.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
 
  []
 
@@ -2483,9 +2483,9 @@ nged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 43786 strings out of 492642
- 940693 string characters out of 6135565
- 1450212 words of memory out of 5000000
+ 43785 strings out of 492642
+ 940674 string characters out of 6135565
+ 1451396 words of memory out of 5000000
  46849 multiletter control sequences out of 15000+600000
  581097 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2505,10 +2505,10 @@ r/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts
 pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-d
 ist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/cou
 rier/ucrr8a.pfb>
-Output written on etit-workshop-protokoll-bsp.pdf (25 pages, 744853 bytes).
+Output written on etit-workshop-protokoll-bsp.pdf (25 pages, 744844 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
- 556 compressed objects within 6 object streams
- 229 named destinations out of 1000 (max. 500000)
+ 674 PDF objects out of 1000 (max. 8388607)
+ 555 compressed objects within 6 object streams
+ 228 named destinations out of 1000 (max. 500000)
  415 words of extra memory for PDF output out of 10000 (max. 10000000)
 
