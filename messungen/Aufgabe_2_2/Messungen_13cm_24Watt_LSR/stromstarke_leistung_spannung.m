@@ -19,14 +19,41 @@ for i = 1:16
 	fclose(fileID);
 end
 
+V = V * 2;
+
 I = V ./ R;
 
+P = V .* V ./ R;
+
+hold on
+
+yyaxis left
 plot(V, I)
 
 xlabel('Spannung in V');
 ylabel('Stromstärke in A');
 
-fig = gcf
+yyaxis right
+plot(V, P)
+ylabel('Leistung in W');
+
+[p, u] = max(P);
+
+disp(p);
+disp(u);
+disp(V(u));
+
+yyaxis left
+
+line([0 V(u)], [I(u) I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+line([V(u) V(u)], [0 I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+
+fig = findobj('Type', 'figure');
+plots = findall(fig, 'Type', 'Line');
+legend(plots([4, 1, 2]), {'Spannung', 'Leistung', 'Darstellung MPP'}, 'Position', [0.56 0.34 0.32 0]);
+
+hold off
+
 fig.PaperUnits = "inches"
-fig.PaperPosition = [0 0 5 1.5]
-print('/home/andreas/docs/kit/len/workshop/doc/latex/spannung_lsr', '-dsvg', '-r0')
+fig.PaperPosition = [0 0 6 2.5]
+print('/home/andreas/docs/kit/len/workshop/doc/latex/stromstarke_leistung_spannung_lsr', '-dsvg', '-r0')

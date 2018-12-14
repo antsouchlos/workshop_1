@@ -15,6 +15,6 @@
 \contentsline {subsubsection}{\numberline {b}Messung}{12}{subsubsection.2.3.2}
 \contentsline {subsubsection}{\numberline {c}Modellbildung}{14}{subsubsection.2.3.3}
 \contentsline {subsubsection}{\numberline {d}Gesamtenergie und Wirkungsgrad}{15}{subsubsection.2.3.4}
-\contentsline {subsection}{\numberline {2.4}Verhalten Photovoltaik mit und ohne Energiespeicher}{17}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {a}Messung}{17}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{18}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4}Verhalten Photovoltaik mit und ohne Energiespeicher}{16}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {a}Messung}{16}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{17}{subsubsection.2.4.2}

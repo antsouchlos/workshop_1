@@ -1,6 +1,6 @@
 import os
 
-FileName = "stromstarke_leistung_spannung_led";
+FileName = "stromstarke_leistung_spannung_lsr";
 
 os.system("inkscape -D -z --file=" + FileName + ".svg --export-pdf=" + FileName + ".pdf --export-latex")
 

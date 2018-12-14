@@ -19,6 +19,8 @@ for i = 1:16
 	fclose(fileID);
 end
 
+V = V * 2;
+
 I = V ./ R;
 
 P = V .* V ./ R;
@@ -48,7 +50,7 @@ line([V(u) V(u)], [0 I(u)], 'Color', [1 0 1], 'LineStyle', '--');
 
 fig = findobj('Type', 'figure');
 plots = findall(fig, 'Type', 'Line');
-legend(plots([4, 1, 2]), {'Spannung', 'Leistung', 'Darstellung MPP'}, 'Position', [0.75 0.3 0 0]);
+legend(plots([4, 1, 2]), {'Spannung', 'Leistung', 'Darstellung MPP'}, 'Position', [0.56 0.34 0.32 0]);
 
 hold off
 

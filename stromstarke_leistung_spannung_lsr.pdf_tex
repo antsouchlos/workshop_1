@@ -1,6 +1,6 @@
 %% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'stromstarke_leistung_spannung_led.pdf' (pdf, eps, ps)
+%% Accompanies image file 'stromstarke_leistung_spannung_lsr.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -53,7 +53,7 @@
   \begin{picture}(1,0.41666667)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0,0){\includegraphics[width=\unitlength,page=1]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.12239583,0.03726858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
     \put(0.27725694,0.03726858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
     \put(0.43211806,0.03726858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
@@ -61,34 +61,33 @@
     \put(0.74184028,0.03726858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4\end{tabular}}}}%
     \put(0.89670139,0.03726858){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}%
     \put(0.42881979,0.00775469){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spannung in V\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=2]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.10671302,0.05815972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
-    \put(0.08587969,0.13628472){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.5\end{tabular}}}}%
-    \put(0.10671302,0.21440972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
-    \put(0.08587969,0.29253472){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1.5\end{tabular}}}}%
-    \put(0.10671302,0.37065972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
+    \put(0.08587969,0.12065972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0.5\end{tabular}}}}%
+    \put(0.10671302,0.18315972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
+    \put(0.08587969,0.24565972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1.5\end{tabular}}}}%
+    \put(0.10671302,0.30815972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
+    \put(0.08587969,0.37065972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2.5\end{tabular}}}}%
     \put(0.07314809,0.1206599){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Stromstärke in A\end{tabular}}}}}%
     \put(0.13020833,0.38368056){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\end{tabular}}}}%
     \put(0.14756944,0.38368056){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
     \put(0.17708333,0.39409722){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-3\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=3]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.9123842,0.05815972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}0\end{tabular}}}}%
-    \put(0.9123842,0.11024306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1\end{tabular}}}}%
-    \put(0.9123842,0.16232639){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
-    \put(0.9123842,0.21440972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}3\end{tabular}}}}%
-    \put(0.9123842,0.26649306){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4\end{tabular}}}}%
-    \put(0.9123842,0.31857639){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}5\end{tabular}}}}%
-    \put(0.9123842,0.37065972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}6\end{tabular}}}}%
+    \put(0.9123842,0.13628472){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2\end{tabular}}}}%
+    \put(0.9123842,0.21440972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}4\end{tabular}}}}%
+    \put(0.9123842,0.29253472){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}6\end{tabular}}}}%
+    \put(0.9123842,0.37065972){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}8\end{tabular}}}}%
     \put(0.9563658,0.13975712){\rotatebox{90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Leistung in W\end{tabular}}}}}%
     \put(0.90451389,0.38888889){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\end{tabular}}}}%
     \put(0.921875,0.38888889){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}10\end{tabular}}}}%
     \put(0.95138889,0.39930556){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}-3\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=4]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.67626372,0.15972222){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Spannung\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=5]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.67626372,0.13454861){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Leistung\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=6]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{stromstarke_leistung_spannung_lsr.pdf}}%
     \put(0.67626372,0.109375){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Darstellung MPP\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=7]{stromstarke_leistung_spannung_led.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{stromstarke_leistung_spannung_lsr.pdf}}%
   \end{picture}%
 \endgroup%
