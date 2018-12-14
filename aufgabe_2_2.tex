@@ -3,30 +3,8 @@
         \textbf{Methode}
         \newline
         
-        \par Zunächst soll die Solarzelle mit drei unterschiedlichen Lichtquellen bestrahlt werden. 
-        Für die Messung kommen folgende Bauteile zum Einsatz, wobei der Speicherkondensator erst in den angehenden Aufgaben verwendet wird.
-        \begin{table}[H]
-        	\centering
-        	\caption{Verwendetes Material}
-        	\label{tab:Bauteile}
-        	\begin{tabular}{ccc}
-        		\toprule
-        		Bauteiltyp & Bezeichnung / Beschreibung & Wert\\
-        		\midrule
-        		Solarzelle & SEEED Studio POW112D2P  & U\textsubscript{OC} = 5,5V, I\textsubscript{SC} = 4 mA bei 5 klx \\
-        		Zener-Diode & ZF 5,1; 5,1V 0,5W  & V = 5,1 V; P = 0,5W \\
-        		Speicherkondensator & Panasonic 5,5V 220 mF & V = 5,5V; C = 220,0mF \\
-        		Stützkondensator & Keramikkondensator Code 104 & C = 100,0nF \\
-        		Widerstand & Kohleschichtewiderstände  & 10$\Omega$ - 10M$\Omega$ ; P = 0,25W; 5\% \\
-        		Steckbrett & Breadboard
-        		& \ \\
-        		Drahtbrücke & Drahtbrücken-Set 140-teilig
-        		& \ \\
-        		\bottomrule
-        	\end{tabular}
-        \end{table}
-    	\vspace{1mm}
-        Hierbei wird eine Schaltung aufgestellt, bestehend aus einer Diode, welche eine umgekehrte Stromrichtung verhindert, einer Zener-Diode, die die maximale Spannung eingrenzt, und einem Spannungsteiler. Angeschlossen werden die Solarzelle sowie das TI-Board. Diese ist in Abbildung \ref{fig:Schaltkreis} dargestellt.
+        \par Zunächst soll die Solarzelle mit drei unterschiedlichen Lichtquellen bestrahlt werden. Hierbei wird eine Schaltung aufgestellt, bestehend aus einer Diode, welche eine umgekehrte Stromrichtung verhindert, einer Zener-Diode, die die maximale Spannung eingrenzt, und einem Spannungsteiler. Angeschlossen werden die Solarzelle sowie das TI-Board.
+        
         \begin{figure}[H]
             $$
             \ctikzset{bipoles/length=1cm}
@@ -56,9 +34,9 @@
             \label{fig:Schaltkreis}
         \end{figure}
         
-        \par Unter gleichbleibenden Bedingungen wurde die Spannung in Abhängigkeit des Widerstandes gemessen, indem Widerstände in Reihe geschaltet wurden. Es wurden in diesem Fall zwölf Widerstände in einem Intervall zwischen 10$\Omega$ bis 5200$\Omega$ verwendet. Mit MatLab lässt sich die Stromstärke aufgrund von I = U/R ermitteln, sodass man sich den Graphen der Stromstärke in Abhängigkeit der Spannung zeichnen lassen kann.
+        \par Unter gleichbleibenden Bedingungen wurde die Spannung in Abhängigkeit des Widerstandes gemessen, indem Widerstände in Reihe geschaltet wurden. Es wurden in diesem Fall zwölf Widerstände in einem Intervall zwischen 10 Ohm bis 5200 Ohm verwendet. Mit MatLab lässt sich die Stromstärke aufgrund von I = U/R ermitteln, sodass man sich den Graphen der Stromstärke in Abhängigkeit der Spannung zeichnen lassen kann.
         Die Werte der Lichtquellen sind in Tabelle \ref{tab:Werte} abgebildet:
-        \begin{table}[H]
+        \begin{table}[htb]
         	\centering
         	\caption{Angaben über Lichtquellen}
         	\label{tab:Werte}
@@ -104,40 +82,26 @@
     \subsubsection{Bestimmung des Maximum-Power-Points (MPP)}           % 2.2 b
         \textbf{Methode}
         \newline
-        \par Die Leistung hängt von der Spannung sowie der Stromstärke ab aufgrund des Zusammenhanges $P=U*I$ (vgl. S.28, LEN Skript). Alternativ gilt wegen $I=U/R$ ebenfalls $P=U^2/R$, welche hier bevorzugt wird, da die Spannung sowie der Widerstand direkte Messwerte sind. Das vorhandene Skript für die Ermittlung der Stromstärke wird um einen Vektor für die Leistung erweitert.
-        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist (vgl. S.99f., Photovoltaik). Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen oder von MatLab ausgeben. 
+        \par Die Leistung hängt von der Spannung sowie der Stromstärke ab aufgrund des Zusammenhanges $P=U*I$. Alternativ gilt wegen $I=U/R$ ebenfalls $P=U^2/R$, welche hier bevorzugt wird, da die Spannung sowie der Widerstand direkte Messwerte sind. Das vorhandene Skript für die Ermittlung der Stromstärke wird um einen Vektor für die Leistung erweitert.
+        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen/ von MatLab ausgeben. 
         
         \vspace{4mm}
-        \noindent
         \textbf{Ergebnis}
-   
-        Die Werte der MPPs für unsere Lichtquellen betragen:
-        \begin{table}[H]
-        	\centering
-        	\caption{MPPs der Solarzelle mittels verschiedener Lichtquellen}
-        	\label{tab:MPP}
-        	\begin{tabular}{ccc}
-        		\toprule
-        		Art & maximale Leistungsabgabe & Widerstand \\
-        		\midrule
-        		Halogenlampe & 0,0313W  & 690$\Omega$ \\
-        		Leuchtstoffröhre & 0,0075W  & 1720$\Omega$ \\
-        		LED & 0,0059W & 2200$\Omega$ \\
-        		\bottomrule
-        	\end{tabular}
-        \end{table}
-    
-		%Absatz fällt wegen Tabelle weg    
-        %\par Der MPP der Solarzelle unter der Verwendung einer Halogenlampe beträgt ca. 0,0313W und tritt bei %690 Ohm auf. Mit einer Leuchtstoffröhre liegt die maximale Leistung bei ungefähr 0,0075W, welche bei %einem Widerstand von 1720 Ohm erreicht wird. Wird hingegen eine LED als Lichtquelle eingesetzt, befindet %sich der MPP bei ca. 0,0059W bei einem Widerstand von 2200 Ohm.
-        \par Anzumerken ist, dass es sich hierbei nur um grobe Näherungswerte für die maximale Leistung handelt, da lediglich zwölf Messwerte für die Leitung vorliegen. Für eine genauere Bestimmung des MPPs kann mithilfe dieser Werte eine Näherungsfunktion aufgestellt werden, mit dessen Ableitung das Maximum ermittelt werden kann. 
+        \par Der MPP der Solarzelle unter der Verwendung einer Halogenlampe beträgt ca. 0,0313W und tritt bei 690 Ohm auf. Mit einer Leuchtstoffröhre liegt die maximale Leistung bei ungefähr 0,0075W, welche bei einem Widerstand von 1720 Ohm erreicht wird. Wird hingegen eine LED als Lichtquelle eingesetzt, befindet sich der MPP bei ca. 0,0059W bei einem Widerstand von 2200 Ohm.
+        \par Anzumerken ist, dass es sich hierbei nur um einen groben Näherungswert handelt, da lediglich zwölf Messwerte für die Leitung vorliegen. Für eine genauere Bestimmung des MPPs kann mithilfe dieser Werte eine Näherungsfunktion aufgestellt werden, mit dessen Ableitung das Maximum ermittelt werden kann. 
         Diskussion:
-        \par Eine weitere Methode zur Bestimmung des MPPs ist über die Spannung und die Stromstärke möglich. So ist die Leistung das Produkt dieser, was auf die I-U-Kennlinie bezogen bedeutet, dass die Leistung den Flächeninhalt unter einem Punkt des Graphen widerspiegelt. So bezeichnet man den Punkt der Kennlinie als MPP, unter dem die Fläche U*I am größten ist. (vgl. S.99, Photovoltaik)
+        \par Eine weitere Methode zur Bestimmung des MPPs ist über die Spannung und die Stromstärke möglich. So ist die Leistung das Produkt dieser, was auf die I-U-Kennlinie bezogen bedeutet, dass die Leistung den Flächeninhalt unter einem Punkt des Graphen wiederspiegelt. So bezeichnet man den Punkt der Kennlinie als MPP, unter dem die Fläche U*I am größten ist. \par (vgl. S.99, Photovoltaik)
         \par Dieser Zusammenhang wird in dem folgenden Diagramm veranschaulicht.
         \par (Diagramm mit MPP fehlt)
 
+        \begin{figure}[H]
+            \def\svgwidth{\textwidth}
+            \input{stromstarke_leistung_spannung_led.pdf_tex}
+            \caption{Darstellung MPP bei benutzun von LED}
+        \end{figure}
+        
     \subsubsection{MPP-Anpassung}                                       % 2.2 c
         \textbf{Diskussion}
         \newline
-        \par Solarwechselrichter sind dafür zuständig, die von der Solarzelle produzierte Gleichspannung in Wechselspannung umzuwandeln. Für die maximale Leistungsausbeute bildet der im Solarwechselrichter enthaltende MPP-Tracker den optimalen Widerstand für den MPP, welcher jedoch unter natürlichen Bedingungen von verschiedenen äußeren Faktoren wie Verschattung, Temperatur oder Lichteinfall abhängt, sodass der MPP stets neu ermittelt werden muss (vgl. S.8f, Diplomarbeit). 
-        
+        \par Solarwechselrichter sind dafür zuständig, die von der Solarzelle produzierte Gleichspannung in Wechselspannung umzuwandeln. Für die maximale Leistungsausbeute wird der MPP benötigt(bildet der im Solarwechselrichter enthaltende MPP-Tracker den optimalen Widerstand für den MPP), welcher jedoch unter natürlichen Bedingungen von verschiedenen äußeren Faktoren wie Verschattung, Temperatur oder Lichteinfall abhängt, sodass der MPP stets neu ermittelt werden muss (vgl. S.8f, Diplomarbeit). 
         \par Vernachlässigt wurden Diode/Zehnerdiode, da dort auch Spannung noch abfallen, kleiner Messfehler.

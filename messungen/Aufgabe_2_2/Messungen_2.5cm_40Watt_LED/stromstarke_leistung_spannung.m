@@ -21,22 +21,37 @@ end
 
 I = V ./ R;
 
-P = V .^ 2 / R;
+P = V .* V ./ R;
 
+hold on
+
+yyaxis left
 plot(V, I)
 
 xlabel('Spannung in V');
 ylabel('Stromstärke in A');
 
-hold on
-
 yyaxis right
 plot(V, P)
 ylabel('Leistung in W');
 
+[p, u] = max(P);
+
+disp(p);
+disp(u);
+disp(V(u));
+
+yyaxis left
+
+line([0 V(u)], [I(u) I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+line([V(u) V(u)], [0 I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+
+fig = findobj('Type', 'figure');
+plots = findall(fig, 'Type', 'Line');
+legend(plots([4, 1, 2]), {'Spannung', 'Leistung', 'Darstellung MPP'}, 'Position', [0.75 0.3 0 0]);
+
 hold off
 
-%fig = gcf
-%fig.PaperUnits = "inches"
-%fig.PaperPosition = [0 0 5 1.5]
-%print('/home/andreas/docs/kit/len/workshop/doc/latex/spannung_led', '-dsvg', '-r0')
+fig.PaperUnits = "inches"
+fig.PaperPosition = [0 0 5 2.5]
+print('/home/andreas/docs/kit/len/workshop/doc/latex/stromstarke_leistung_spannung_led', '-dsvg', '-r0')
