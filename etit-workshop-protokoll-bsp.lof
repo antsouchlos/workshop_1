@@ -1,18 +1,19 @@
 \babel@toc {ngerman}{}
-\contentsline {figure}{\numberline {2}{\ignorespaces Matlab-Skript zur graphischen Darstellung der Spannung}}{7}{figure.2}
 \contentsline {figure}{\numberline {1}{\ignorespaces Benutzter Schaltkreis}}{7}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Matlab code zur graphischen Darstellung der Spannung}}{7}{figure.2}
 \contentsline {figure}{\numberline {3}{\ignorespaces Stromst\IeC {\"a}rke in Abh\IeC {\"a}nigkeit der Spannung bei der Halogenlampe}}{8}{figure.3}
 \contentsline {figure}{\numberline {4}{\ignorespaces Stromst\IeC {\"a}rke in Abh\IeC {\"a}nigkeit der Spannung bei der Leuchtstoffr\IeC {\"o}hre}}{8}{figure.4}
 \contentsline {figure}{\numberline {5}{\ignorespaces Stromst\IeC {\"a}rke in Abh\IeC {\"a}nigkeit der Spannung bei der LED}}{8}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Darstellung MPP bei benutzun von Halogenlampe}}{10}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Darstellung MPP bei benutzun von Leuchtstoffr\IeC {\"o}hre}}{10}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Darstellung MPP bei benutzun von LED}}{11}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces Matlab-Skrip zur Berechnung der Energie}}{12}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Spannungsverlauf \IeC {\"u}ber 2 Stunden}}{12}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Leistungsverlauf \IeC {\"u}ber 2 Stunden}}{13}{figure.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Theoretischer Spannungsverlauf bei Entladung}}{17}{figure.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Spannungsverlauf bei Aufladung des Kondensators}}{18}{figure.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Spannungsverlauf bei Entladung des Kondensators}}{18}{figure.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Matlab-Skrip zur Berechnung des Wirkungsgrades}}{20}{figure.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Matlab-Skript zur grpahischen Darstellung der Spannung}}{21}{figure.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Spannungsverlauf mit und ohne Kondensator}}{22}{figure.17}
+\contentsline {figure}{\numberline {6}{\ignorespaces Matlab code zur Berechnung der Spannung bzw. Stromst\IeC {\"a}rke und des MPP}}{9}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Darstellung MPP bei benutzun von Halogenlampe}}{10}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Darstellung MPP bei benutzun von Leuchtstoffr\IeC {\"o}hre}}{10}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Darstellung MPP bei benutzun von LED}}{11}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Matlab-Skrip zur Berechnung der Energie}}{12}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Spannungsverlauf \IeC {\"u}ber 2 Stunden}}{12}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Leistungsverlauf \IeC {\"u}ber 2 Stunden}}{13}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Theoretischer Spannungsverlauf bei Entladung}}{17}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Spannungsverlauf bei Aufladung des Kondensators}}{18}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Spannungsverlauf bei Entladung des Kondensators}}{18}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Matlab-Skrip zur Berechnung des Wirkungsgrades}}{20}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Matlab-Skript zur grpahischen Darstellung der Spannung}}{21}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Spannungsverlauf mit und ohne Kondensator}}{22}{figure.18}

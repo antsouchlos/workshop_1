@@ -52,11 +52,11 @@
         \end{table}
         
         \vspace{4mm}
-        \par Zur graphischen Darstellung wurde folgendes Matlab-Skript verwendet:
+        \par Zur graphischen Darstellung wurde folgender Matlab code verwendet:
         
-        \begin{figure}
-            \lstinputlisting[style=Matlab, firstline=24, lastline=29]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_spannung.m}
-            \caption{Matlab-Skript zur graphischen Darstellung der Spannung}
+        \begin{figure}[H]
+            \lstinputlisting[style=Matlab, firstline=24, lastline=30]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_spannung.m}
+            \caption{Matlab code zur graphischen Darstellung der Spannung}
         \end{figure}
         
         
@@ -92,9 +92,12 @@
         \textbf{Methode}
         \newline
         \par Die Leistung hängt von der Spannung sowie der Stromstärke ab aufgrund des Zusammenhanges $P=U*I$. Alternativ gilt wegen $I=U/R$ ebenfalls $P=U^2/R$, welche hier bevorzugt wird, da die Spannung sowie der Widerstand direkte Messwerte sind. Das vorhandene Skript für die Ermittlung der Stromstärke wird um einen Vektor für die Leistung erweitert.
-        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen / von folgendem MatLab-Skript ausgeben:
+        Der Maximum Power Point (wird nun MPP abgekürzt) bezeichnet nun den Punkt, an dem die Leistung am größten ist. Dieser maximale Wert für die Leistung sowie der dementsprechende Widerstand lassen sich ablesen / von folgendem Matlab code ausgeben:
         
-        \lstinputlisting[style=Matlab, firstline=22, lastline=50]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_leistung_spannung.m}
+        \begin{figure}[H]
+            \lstinputlisting[style=Matlab, firstline=22, lastline=48]{messungen/Aufgabe_2_2/Messungen_2.5cm_40Watt_LED/stromstarke_leistung_spannung.m}
+            \caption{Matlab code zur Berechnung der Spannung bzw. Stromstärke und des MPP}
+        \end{figure}
         
         \vspace{4mm}
         \textbf{Ergebnis}

@@ -19,40 +19,37 @@ for i = 1:16
 	fclose(fileID);
 end
 
+% V: Vektor mit Spannungen
+% R: Vektor mit Widerständen
+
 V = V * 2;
 
 I = V ./ R;
 
 P = V .* V ./ R;
 
+[p, u] = max(P);
+
+
 hold on
 
 yyaxis left
 plot(V, I)
-
-xlabel('Spannung in V');
 ylabel('Stromstärke in A');
+line([0 V(u)], [I(u) I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+line([V(u) V(u)], [0 I(u)], 'Color', [1 0 1], 'LineStyle', '--');
 
 yyaxis right
 plot(V, P)
 ylabel('Leistung in W');
 
-[p, u] = max(P);
+xlabel('Spannung in V');
 
-disp(p);
-disp(u);
-disp(V(u));
-
-yyaxis left
-
-line([0 V(u)], [I(u) I(u)], 'Color', [1 0 1], 'LineStyle', '--');
-line([V(u) V(u)], [0 I(u)], 'Color', [1 0 1], 'LineStyle', '--');
+hold off
 
 fig = findobj('Type', 'figure');
 plots = findall(fig, 'Type', 'Line');
 legend(plots([4, 1, 2]), {'Stromstärke', 'Leistung', 'Darstellung MPP'}, 'Position', [0.56 0.34 0.32 0]);
-
-hold off
 
 fig.PaperUnits = "inches"
 fig.PaperPosition = [0 0 6 2.5]

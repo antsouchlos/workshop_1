@@ -22,6 +22,7 @@ end
 V = 2 * V;
 
 % V: Vektor mit Spannungen
+% R: Vektor mit Widerständen
 
 I = V ./ R;
 
