@@ -6,8 +6,8 @@
 \contentsline {subsection}{\numberline {2.1}Literaturrecherche}{5}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Vermessung der Solarzelle POW112D2P}{5}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {a}Aufnehmen der I-U Kennlinie}{5}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {b}Bestimmung des Maximum-Power-Points (MPP)}{7}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {c}MPP-Anpassung}{8}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {b}Bestimmung des Maximum-Power-Points (MPP)}{8}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {c}MPP-Anpassung}{9}{subsubsection.2.2.3}
 \contentsline {subsection}{\numberline {2.3}Langzeitmessung}{9}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {a}Spannungsverlauf und Leistung}{9}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {b}Energiegewinnung}{11}{subsubsection.2.3.2}
