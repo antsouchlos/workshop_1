@@ -8,12 +8,15 @@
 \contentsline {figure}{\numberline {7}{\ignorespaces Darstellung MPP bei benutzun von Halogenlampe}}{10}{figure.7}
 \contentsline {figure}{\numberline {8}{\ignorespaces Darstellung MPP bei benutzun von Leuchtstoffr\IeC {\"o}hre}}{10}{figure.8}
 \contentsline {figure}{\numberline {9}{\ignorespaces Darstellung MPP bei benutzun von LED}}{11}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Matlab-Skrip zur Berechnung der Energie}}{12}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Spannungsverlauf \IeC {\"u}ber 2 Stunden}}{12}{figure.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Leistungsverlauf \IeC {\"u}ber 2 Stunden}}{13}{figure.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Theoretischer Spannungsverlauf bei Entladung}}{17}{figure.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Spannungsverlauf bei Aufladung des Kondensators}}{18}{figure.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Spannungsverlauf bei Entladung des Kondensators}}{18}{figure.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Matlab-Skrip zur Berechnung des Wirkungsgrades}}{20}{figure.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Matlab-Skript zur grpahischen Darstellung der Spannung}}{21}{figure.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Spannungsverlauf mit und ohne Kondensator}}{22}{figure.18}
+\contentsline {figure}{\numberline {10}{\ignorespaces Matlab code zur Berechnung der Energie}}{12}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Spannungsverlauf \IeC {\"u}ber 2 Stunden}}{13}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Leistungsverlauf \IeC {\"u}ber 2 Stunden}}{14}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Matlab code zur graphischen Darstellung des theoretischen Spannungsverlaufes bei Entladung eines Kondensators}}{16}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Theoretischer Spannungsverlauf bei Entladung}}{18}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Matlab code zur graphischen Darstellung des Spannungsverlaufes bei der Aufladung des Kondensators}}{19}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Matlab code zur graphischen Darstellung des Spannungsverlaufes bei der Entladung des Kondensators}}{19}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Spannungsverlauf bei Aufladung des Kondensators}}{20}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Spannungsverlauf bei Entladung des Kondensators}}{20}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Matlab code zur Berechnung des Wirkungsgrades}}{22}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Matlab-Skript zur grpahischen Darstellung der Spannung}}{23}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Spannungsverlauf mit und ohne Kondensator}}{24}{figure.21}

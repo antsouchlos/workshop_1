@@ -7,14 +7,16 @@
 \contentsline {subsubsection}{\numberline {a}Aufnehmen der I-U Kennlinie}{6}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {b}Bestimmung des Maximum-Power-Points (MPP)}{8}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {c}MPP-Anpassung}{11}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Langzeitmessung}{11}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {a}Spannungsverlauf und Leistung}{11}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {b}Energiegewinnung}{13}{subsubsection.2.2.2}
-\contentsline {subsection}{\numberline {2.3}Energiespeicherung und Verhalten von Solarzellen}{14}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {a}Theoretische Betrachtung}{14}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {b}Messung}{17}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {c}Modellbildung}{19}{subsubsection.2.3.3}
-\contentsline {subsubsection}{\numberline {d}Gesamtenergie und Wirkungsgrad}{20}{subsubsection.2.3.4}
-\contentsline {subsection}{\numberline {2.4}Verhalten Photovoltaik mit und ohne Energiespeicher}{21}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {a}Messung}{21}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{22}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.2}Langzeitmessung}{12}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {a}Spannungsverlauf und Leistung}{12}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {b}Energiegewinnung}{14}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Energiespeicherung und Verhalten von Solarzellen}{15}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {a}Theoretische Betrachtung}{15}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {b}Messung}{19}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {c}Modellbildung}{21}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {d}Gesamtenergie und Wirkungsgrad}{22}{subsubsection.2.3.4}
+\contentsline {subsection}{\numberline {2.4}Verhalten Photovoltaik mit und ohne Energiespeicher}{23}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {a}Messung}{23}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {b}Auswirkung des Speicherkondensators}{24}{subsubsection.2.4.2}
+\contentsline {section}{\numberline {3}Zusammenfassung}{25}{section.3}
+\contentsline {section}{\numberline {4}Literaturverzeichnis}{26}{section.4}

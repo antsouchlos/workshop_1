@@ -1,7 +1,21 @@
-tau = 110;
+% Wie in der Diskussion hergeleitet, ist die Formel zur Berechnung der Spannung in Abhänigkeit der Zeit bei der Entladung eines Kondensators folgende:
+%	 U = U_0 * e .^ (- t / tau)
+% Für dieses Beispiel wird U_0 = 0.42 V gesetzt, was in etwa der maximalen Spannung der Kondensators im realen Experiment entspricht
 
-x = [1:600];
-y  = 9 * exp(1) .^ (- x ./ tau);
+tau = 110; % Wie in der Diskussion berechnet
+
+
+% Graphische Darstellung der Spannung
+
+
+x = [1:600]; % Zeit in Sekunden
+y  = 0.84 * exp(1) .^ (- x ./ tau);
+
+plot(x, y);
+
+
+% Weitere Betonung bestimmter Zeitpunkte
+
 
 t1 = tau;
 t2 = 2 * tau;
@@ -9,19 +23,11 @@ t3 = 3 * tau;
 t4 = 4 * tau;
 t5 = 5 * tau;
 
-y1 = 9 * exp(1) .^ (- t1 ./ tau);
-y2 = 9 * exp(1) .^ (- t2 ./ tau);
-y3 = 9 * exp(1) .^ (- t3 ./ tau);
-y4 = 9 * exp(1) .^ (- t4 ./ tau);
-y5 = 9 * exp(1) .^ (- t5 ./ tau);
-
-disp(y1);
-disp(y2);
-disp(y3);
-disp(y4);
-disp(y5);
-
-plot(x, y);
+y1 = 0.84 * exp(1) .^ (- t1 ./ tau);
+y2 = 0.84 * exp(1) .^ (- t2 ./ tau);
+y3 = 0.84 * exp(1) .^ (- t3 ./ tau);
+y4 = 0.84 * exp(1) .^ (- t4 ./ tau);
+y5 = 0.84 * exp(1) .^ (- t5 ./ tau);
 
 hold on
 

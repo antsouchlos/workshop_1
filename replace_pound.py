@@ -1,6 +1,6 @@
 import os
 
-FileNames = ["stromstarke_leistung_spannung_halogen", "stromstarke_leistung_spannung_lsr", "stromstarke_leistung_spannung_led", "theorie_kondensator", "spannung_led", "spannung_halogen", "spannung_lsr"];
+FileNames = ["stromstarke_leistung_spannung_halogen", "stromstarke_leistung_spannung_lsr", "stromstarke_leistung_spannung_led", "theorie_kondensator", "spannung_led", "spannung_halogen", "spannung_lsr", "spannung_aufladen", "spannung_entladen"];
 
 for i in range(0, len(FileNames)):
 	os.system("inkscape -D -z --file=" + FileNames[i] + ".svg --export-pdf=" + FileNames[i] + ".pdf --export-latex")
