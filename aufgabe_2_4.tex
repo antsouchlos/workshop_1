@@ -11,40 +11,43 @@
         \par Ein Kondensator besteht aus zwei Metallflächen, die durch einen Isolator getrennt sind. Er dient zur Ladungsspeicherung, indem man ihn an eine Spannungsquelle schaltet. Die davor gleichmäßig verteilten Elektronen werden vom Minus-Pol gezogen, welches mit dem Plus-Pol der Quelle verbunden ist. Somit wird der Kondensator elektrisch geladen. Würde man jetzt die Spannungsquelle mit einem Widerstand wechseln, dann würde der Kondensator als Spannungsquelle fungieren und sich entladen. Der Minus-Pol des Kondensators, wo sich früher die Elektronen gelagert haben wird neutral, indem die Elektronen über dem Widerstand vom Plus-Pol weggezogen werden. Der Isolator sorgt dafür, dass der Minus- und Plus-Pol nie direkt in Verbindung kommen, so dass die Elektronen immer über einen Leiter wandern müssen.
         
         \begin{align}
-            \delta Q &= C * \delta U \\
-            \delta Q &= I * \delta t \\
-            C * \delta U &= I * \delta t \\
-            I &= \frac{C * I}{\delta t} \\
-            I_0 &= C \frac{\delta U}{\delta t} = C \frac{U - 0V}{t - 0V}=C\frac{U}{t} \\
-            I_0 &= \frac{U_0}{R} \\
-            C\frac{U}{t} &= \frac{U}{R} \\
-            t &= \tau = C*R \\
-            I &= \frac{U}{R} * e\textsuperscript{$-\frac{t}{\tau}$} = I_0 * e^{-\frac{t}{\tau}} \\
-            \frac{I}{I_0} &= e^{-\frac{t}{\tau}} \\
-            U &= U_0 * (1 - e^{-\frac{t}{\tau}}) \\
-            \frac{U}{U_0} &= 1 - e^{-\frac{t}{\tau}}
+            \delta Q &= C * \delta U \\                                                                 % (1)
+            \delta Q &= I * \delta t \\                                                                 % (2)
+            C * \delta U &= I * \delta t \\                                                             % (3)
+            I &= \frac{C * I}{\delta t} \\                                                              % (4)
+            I_0 &= C \frac{\delta U}{\delta t} = C \frac{U - 0V}{t - 0V}=C\frac{U}{t} \\                % (5)
+            I_0 &= \frac{U_0}{R} \\                                                                     % (6)
+            C\frac{U}{t} &= \frac{U}{R} \\                                                              % (7)
+            t &= \tau = C*R \\                                                                          % (8)
+            I &= -\frac{U}{R} * e\textsuperscript{$-\frac{t}{\tau}$} = - I_0 * e^{-\frac{t}{\tau}} \\      % (9)
+            \frac{I}{I_0} &= - e^{-\frac{t}{\tau}} \\                                                     % (10)
+            U &= U_0 * e^{-\frac{t}{\tau}} \\                                                     % (11)
+            \frac{U}{U_0} &= e^{-\frac{t}{\tau}}                                                    % (12)
         \end{align}
         
         \begin{align}
-            t &= \tau \\
-            \frac{I}{I_0} (t = \tau) &= e^{-\frac{\tau}{\tau}} = e^{-1} = \frac{1}{e}
+            t &= \tau \\                                                                                % (13)
+            \frac{I}{I_0} (t = \tau) &= - e^{-\frac{\tau}{\tau}} = - e^{-1} = - \frac{1}{e}                   % (14)
             %t = \tau &\Rightarrow \frac{1}{e}
         \end{align}
         
         \begin{align}
-            t = 2\tau \Rightarrow \frac{1}{e^2} \approx 0.14 \\
-            t = 3\tau \Rightarrow \frac{1}{e^3} \approx 0.05 \\
-            t = 4\tau \Rightarrow \frac{1}{e^4} \approx 0.02 \\
-            t = 5\tau \Rightarrow \frac{1}{e^5} \approx 0.01
+            t = 2\tau \Rightarrow \frac{I}{I_0} = - \frac{1}{e^2} \approx - 0.14\ A\\                   % (15)
+            t = 3\tau \Rightarrow \frac{I}{I_0} = - \frac{1}{e^3} \approx - 0.05\ A\\                   % (16)
+            t = 4\tau \Rightarrow \frac{I}{I_0} = - \frac{1}{e^4} \approx - 0.02\ A\\                   % (17)
+            t = 5\tau \Rightarrow \frac{I}{I_0} = - \frac{1}{e^5} \approx - 0.01\ A                   % (18)
+            %t = 3\tau \Rightarrow \frac{1}{e^3} \approx 0.05 \\                                         % (16)
+            %t = 4\tau \Rightarrow \frac{1}{e^4} \approx 0.02 \\                                         % (17)
+            %t = 5\tau \Rightarrow \frac{1}{e^5} \approx 0.01                                            % (18)
         \end{align}
         
         \begin{align}
-            \frac{U}{U_0}(t=\tau) &= 1 - e^{-\frac{\tau}{\tau}} = 1 - e^{-1}
+            \frac{U}{U_0}(t=\tau) &= e^{-\frac{\tau}{\tau}} = e^{-1}                            % (19)
         \end{align}
 
         
         \begin{align}
-            \tau = R * C = 500 \Omega * 220mF = 110s
+            \tau = R * C = 500 \Omega * 220mF = 110s                                                    % (20)
         \end{align}
         
         \begin{figure}[H]
