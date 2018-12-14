@@ -15,8 +15,14 @@ V_withoutC = values{1};
 fclose(fileID);
 
 hold on
+
+% V_withC: Vektor mit Spannung mit Kondensator
+% V_withoutC: Vektor mit Spannungen ohne Kondensator
+
 plot(V_withC);
 plot(V_withoutC);
+
+
 xlabel('Zeit in Sekunden');
 ylabel('Spannung in Volt');
 hold off

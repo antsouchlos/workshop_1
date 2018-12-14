@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.12)  14 DEC 2018 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.12)  14 DEC 2018 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1607,17 +1607,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
  []
 
 (./spannung_halogen.pdf_tex
-<spannung_halogen.pdf, id=193, page=1, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=195, page=1, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 1>
 Package pdftex.def Info: spannung_halogen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_halogen.pdf, id=194, page=2, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=196, page=2, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 2>
 Package pdftex.def Info: spannung_halogen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_halogen.pdf, id=195, page=3, 361.35pt x 108.405pt>
+<spannung_halogen.pdf, id=197, page=3, 361.35pt x 108.405pt>
 File: spannung_halogen.pdf Graphic file (type pdf)
 <use spannung_halogen.pdf, page 3>
 Package pdftex.def Info: spannung_halogen.pdf , page3 used on input line 70.
@@ -1635,33 +1635,33 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 70.
  [7]
 (./spannung_lsr.pdf_tex
-<spannung_lsr.pdf, id=214, page=1, 361.35pt x 108.405pt>
+<spannung_lsr.pdf, id=216, page=1, 361.35pt x 108.405pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 1>
 Package pdftex.def Info: spannung_lsr.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_lsr.pdf, id=215, page=2, 361.35pt x 108.405pt>
+<spannung_lsr.pdf, id=217, page=2, 361.35pt x 108.405pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 2>
 Package pdftex.def Info: spannung_lsr.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_lsr.pdf, id=216, page=3, 361.35pt x 108.405pt>
+<spannung_lsr.pdf, id=218, page=3, 361.35pt x 108.405pt>
 File: spannung_lsr.pdf Graphic file (type pdf)
 <use spannung_lsr.pdf, page 3>
 Package pdftex.def Info: spannung_lsr.pdf , page3 used on input line 74.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
 ) (./spannung_led.pdf_tex
-<spannung_led.pdf, id=217, page=1, 361.35pt x 108.405pt>
+<spannung_led.pdf, id=219, page=1, 361.35pt x 108.405pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 1>
 Package pdftex.def Info: spannung_led.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_led.pdf, id=218, page=2, 361.35pt x 108.405pt>
+<spannung_led.pdf, id=220, page=2, 361.35pt x 108.405pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 2>
 Package pdftex.def Info: spannung_led.pdf , page2 used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 136.57446pt.
-<spannung_led.pdf, id=219, page=3, 361.35pt x 108.405pt>
+<spannung_led.pdf, id=221, page=3, 361.35pt x 108.405pt>
 File: spannung_led.pdf Graphic file (type pdf)
 <use spannung_led.pdf, page 3>
 Package pdftex.def Info: spannung_led.pdf , page3 used on input line 73.
@@ -1729,49 +1729,49 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 100.
  [9]
 (./stromstarke_leistung_spannung_halogen.pdf_tex
-<stromstarke_leistung_spannung_halogen.pdf, id=264, page=1, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=266, page=1, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 1>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page1 used
  on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=265, page=2, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=267, page=2, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 2>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page2 used
  on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=266, page=3, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=268, page=3, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 3>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page3 used
  on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=267, page=4, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=269, page=4, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 4>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page4 used
  on input line 79.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=268, page=5, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=270, page=5, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 5>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page5 used
  on input line 81.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=269, page=6, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=271, page=6, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 6>
 Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page6 used
  on input line 83.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_halogen.pdf, id=270, page=7, 433.62pt x 180.675p
+<stromstarke_leistung_spannung_halogen.pdf, id=272, page=7, 433.62pt x 180.675p
 t>
 File: stromstarke_leistung_spannung_halogen.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_halogen.pdf, page 7>
@@ -1780,43 +1780,43 @@ Package pdftex.def Info: stromstarke_leistung_spannung_halogen.pdf , page7 used
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
 )
 (./stromstarke_leistung_spannung_lsr.pdf_tex
-<stromstarke_leistung_spannung_lsr.pdf, id=271, page=1, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=273, page=1, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 1>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page1 used on 
 input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=272, page=2, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=274, page=2, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 2>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page2 used on 
 input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=273, page=3, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=275, page=3, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 3>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page3 used on 
 input line 75.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=274, page=4, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=276, page=4, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 4>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page4 used on 
 input line 85.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=275, page=5, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=277, page=5, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 5>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page5 used on 
 input line 87.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=276, page=6, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=278, page=6, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 6>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page6 used on 
 input line 89.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_lsr.pdf, id=277, page=7, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_lsr.pdf, id=279, page=7, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_lsr.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_lsr.pdf, page 7>
 Package pdftex.def Info: stromstarke_leistung_spannung_lsr.pdf , page7 used on 
@@ -1824,43 +1824,43 @@ input line 91.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
 )
 (./stromstarke_leistung_spannung_led.pdf_tex
-<stromstarke_leistung_spannung_led.pdf, id=278, page=1, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=280, page=1, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 1>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page1 used on 
 input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=279, page=2, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=281, page=2, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 2>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page2 used on 
 input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=280, page=3, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=282, page=3, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 3>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page3 used on 
 input line 74.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=281, page=4, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=283, page=4, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 4>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page4 used on 
 input line 86.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=282, page=5, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=284, page=5, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 5>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page5 used on 
 input line 88.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=283, page=6, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=285, page=6, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 6>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page6 used on 
 input line 90.
 (pdftex.def)             Requested size: 455.24408pt x 189.69504pt.
-<stromstarke_leistung_spannung_led.pdf, id=284, page=7, 433.62pt x 180.675pt>
+<stromstarke_leistung_spannung_led.pdf, id=286, page=7, 433.62pt x 180.675pt>
 File: stromstarke_leistung_spannung_led.pdf Graphic file (type pdf)
 <use stromstarke_leistung_spannung_led.pdf, page 7>
 Package pdftex.def Info: stromstarke_leistung_spannung_led.pdf , page7 used on 
@@ -1998,33 +1998,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
  []
 
 (./spannung_langzeit.pdf_tex
-<spannung_langzeit.pdf, id=337, page=1, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=339, page=1, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 1>
 Package pdftex.def Info: spannung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=338, page=2, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=340, page=2, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 2>
 Package pdftex.def Info: spannung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<spannung_langzeit.pdf, id=339, page=3, 505.89pt x 361.35pt>
+<spannung_langzeit.pdf, id=341, page=3, 505.89pt x 361.35pt>
 File: spannung_langzeit.pdf Graphic file (type pdf)
 <use spannung_langzeit.pdf, page 3>
 Package pdftex.def Info: spannung_langzeit.pdf , page3 used on input line 76.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
 ) (./leistung_langzeit.pdf_tex
-<leistung_langzeit.pdf, id=340, page=1, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=342, page=1, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 1>
 Package pdftex.def Info: leistung_langzeit.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=341, page=2, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=343, page=2, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 2>
 Package pdftex.def Info: leistung_langzeit.pdf , page2 used on input line 66.
 (pdftex.def)             Requested size: 455.24408pt x 325.17891pt.
-<leistung_langzeit.pdf, id=342, page=3, 505.89pt x 361.35pt>
+<leistung_langzeit.pdf, id=344, page=3, 505.89pt x 361.35pt>
 File: leistung_langzeit.pdf Graphic file (type pdf)
 <use leistung_langzeit.pdf, page 3>
 Package pdftex.def Info: leistung_langzeit.pdf , page3 used on input line 74.
@@ -2145,7 +2145,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 26.
  [15]
 (./theorie_kondensator.pdf_tex
-<theorie_kondensator.pdf, id=414, page=1, 433.62pt x 289.08pt>
+<theorie_kondensator.pdf, id=416, page=1, 433.62pt x 289.08pt>
 File: theorie_kondensator.pdf Graphic file (type pdf)
 <use theorie_kondensator.pdf, page 1>
 Package pdftex.def Info: theorie_kondensator.pdf , page1 used on input line 56.
@@ -2170,63 +2170,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--68
+(/usr/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(/usr/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
 
  []
 
 (./spannung_aufladen.pdf_tex
-<spannung_aufladen.pdf, id=441, page=1, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=443, page=1, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 1>
 Package pdftex.def Info: spannung_aufladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=442, page=2, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=444, page=2, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 2>
 Package pdftex.def Info: spannung_aufladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_aufladen.pdf, id=443, page=3, 433.62pt x 216.81pt>
+<spannung_aufladen.pdf, id=445, page=3, 433.62pt x 216.81pt>
 File: spannung_aufladen.pdf Graphic file (type pdf)
 <use spannung_aufladen.pdf, page 3>
 Package pdftex.def Info: spannung_aufladen.pdf , page3 used on input line 73.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
 ) (./spannung_entladen.pdf_tex
-<spannung_entladen.pdf, id=444, page=1, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=446, page=1, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 1>
 Package pdftex.def Info: spannung_entladen.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=445, page=2, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=447, page=2, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 2>
 Package pdftex.def Info: spannung_entladen.pdf , page2 used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_entladen.pdf, id=446, page=3, 433.62pt x 216.81pt>
+<spannung_entladen.pdf, id=448, page=3, 433.62pt x 216.81pt>
 File: spannung_entladen.pdf Graphic file (type pdf)
 <use spannung_entladen.pdf, page 3>
 Package pdftex.def Info: spannung_entladen.pdf , page3 used on input line 72.
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 86.
  [17 <./theorie_kondensator.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 88.
  [18 <./spannung_aufladen.pdf> <./spannung_aufladen.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./spannung_aufladen.pdf): PDF inclusion
@@ -2249,65 +2252,57 @@ pdfTeX warning: /usr/bin/pdflatex (file ./spannung_entladen.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 89.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 89.
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 110.
+(babel)             in language  on input line 114.
 [19
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 115.
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
 (/usr/share/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2018/04/06 v1.3b Input encoding file
 )
-LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <12> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 17.
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <12> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 21.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 123.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 123.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 123.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 123.
- [20
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 123--128
+Underfull \hbox (badness 10000) in paragraph at lines 127--132
 
  []
 
-) (./aufgabe_2_5.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 137.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 137.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 137.
+[20
+
+]) (./aufgabe_2_5.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2321,32 +2316,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
+(/usr/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
 (./spannung_kondensator.pdf_tex
-<spannung_kondensator.pdf, id=500, page=1, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=509, page=1, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 1>
 Package pdftex.def Info: spannung_kondensator.pdf , page1 used on input line 56
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=501, page=2, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=510, page=2, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 2>
 Package pdftex.def Info: spannung_kondensator.pdf , page2 used on input line 64
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=502, page=3, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=511, page=3, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 3>
 Package pdftex.def Info: spannung_kondensator.pdf , page3 used on input line 72
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=503, page=4, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=512, page=4, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 4>
 Package pdftex.def Info: spannung_kondensator.pdf , page4 used on input line 74
 .
 (pdftex.def)             Requested size: 455.24408pt x 227.63405pt.
-<spannung_kondensator.pdf, id=504, page=5, 433.62pt x 216.81pt>
+<spannung_kondensator.pdf, id=513, page=5, 433.62pt x 216.81pt>
 File: spannung_kondensator.pdf Graphic file (type pdf)
 <use spannung_kondensator.pdf, page 5>
 Package pdftex.def Info: spannung_kondensator.pdf , page5 used on input line 76
@@ -2356,31 +2354,31 @@ Package pdftex.def Info: spannung_kondensator.pdf , page5 used on input line 76
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 23.
  [21]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 24.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 38.
 [22 <./spannung_kondensator.pdf> <./spannung_kondensator.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./spannung_kondensator.pdf): PDF inclus
@@ -2485,15 +2483,15 @@ nged.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 43767 strings out of 492642
- 940192 string characters out of 6135565
- 1455133 words of memory out of 5000000
- 46850 multiletter control sequences out of 15000+600000
- 582455 words of font info for 84 fonts, out of 8000000 for 9000
+ 43786 strings out of 492642
+ 940693 string characters out of 6135565
+ 1451211 words of memory out of 5000000
+ 46849 multiletter control sequences out of 15000+600000
+ 581097 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,21n,74p,9107b,2703s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
-nts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.e
+nts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.e
 nc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -2506,12 +2504,11 @@ r/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts
 /type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.
 pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-d
 ist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/cou
-rier/ucrb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/share/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on etit-workshop-protokoll-bsp.pdf (25 pages, 761579 bytes).
+rier/ucrr8a.pfb>
+Output written on etit-workshop-protokoll-bsp.pdf (25 pages, 744573 bytes).
 PDF statistics:
- 660 PDF objects out of 1000 (max. 8388607)
- 539 compressed objects within 6 object streams
- 214 named destinations out of 1000 (max. 500000)
+ 675 PDF objects out of 1000 (max. 8388607)
+ 556 compressed objects within 6 object streams
+ 229 named destinations out of 1000 (max. 500000)
  415 words of extra memory for PDF output out of 10000 (max. 10000000)
 
